@@ -1,0 +1,2687 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-03T14:24:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 25544124,
+      "lat": 51.5111215,
+      "lon": -0.1251645,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "22-25",
+        "addr:postcode": "WC2E 9EQ",
+        "addr:street": "Bedford Street",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "check_date": "2022-06-27",
+        "fhrs:confidence_management": "10",
+        "fhrs:hygiene": "5",
+        "fhrs:id": "428021",
+        "fhrs:local_authority_id": "01103/0022/0/000",
+        "fhrs:rating": "2",
+        "fhrs:structural": "15",
+        "name": "Tesco Express",
+        "name:fa": "تسکو مترو",
+        "name:ja": "テスコ・メトロ",
+        "payment:american_express": "yes",
+        "shop": "convenience",
+        "source:postcode": "FSA Food Hygiene Ratings Database",
+        "website": "https://www.tesco.com/store-locator/london/22-25-bedford-st",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25744394,
+      "lat": 51.5620778,
+      "lon": -0.1493587,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "23-25",
+        "addr:postcode": "N6 6QX",
+        "addr:street": "Swain's Lane",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "brand:wikipedia": "en:Tesco",
+        "contact:website": "https://www.tesco.com/store-locator/london/23-25-swains-ln",
+        "fhrs:id": "424394",
+        "name": "Tesco Express",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25813308,
+      "lat": 51.5453412,
+      "lon": -0.1333414,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "196-206",
+        "addr:postcode": "NW1 9HG",
+        "addr:street": "Camden Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "contact:website": "https://www.tesco.com/store-locator/london/196-camden-rd",
+        "fhrs:id": "424617",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25962160,
+      "lat": 51.5513131,
+      "lon": -0.0752367,
+      "tags": {
+        "addr:city": "London",
+        "addr:street": "Stoke Newington Road",
+        "contact:phone": "+44 20 7254 2148",
+        "name": "Chris Dry Cleaners",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26618618,
+      "lat": 51.53781,
+      "lon": -0.1420408,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "143-151",
+        "addr:postcode": "NW1 7JX",
+        "addr:street": "Camden High Street",
+        "brand": "M&S Foodhall",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/camden-town-simply-food-291",
+        "fhrs:id": "425546",
+        "name": "M&S Foodhall",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 12:00-18:00",
+        "shop": "supermarket",
+        "source:addr": "FSA Food Hygiene Rating Scheme open data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26659113,
+      "lat": 51.5175867,
+      "lon": -0.1087596,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "60",
+        "addr:postcode": "EC4A 1AA",
+        "addr:street": "Fetter Lane",
+        "brand": "Sainsbury's Local",
+        "brand:wikidata": "Q13218434",
+        "brand:wikipedia": "en:Sainsbury's Local",
+        "check_date": "2025-08-06",
+        "fhrs:id": "294529",
+        "name": "Sainsbury's Local",
+        "opening_hours": "Mo-Fr 06:00-23:00, Sa 07:00-23:00, Su 09:00-23:00",
+        "operator": "Sainsbury's",
+        "shop": "convenience",
+        "website": "https://stores.sainsburys.co.uk/4036/fetter-lane-local",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26817795,
+      "lat": 51.5228051,
+      "lon": -0.1587223,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "11-15",
+        "addr:postcode": "NW1 6AE",
+        "addr:street": "Melcombe Street",
+        "alt_name": "Tesco Marylebone Melcombe Street Express",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "brand:wikipedia": "en:Tesco",
+        "check_date": "2025-11-08",
+        "contact:website": "https://www.tesco.com/store-locator/london/11-15-melcombe-st",
+        "fhrs:id": "413195",
+        "name": "Tesco Express",
+        "shop": "convenience",
+        "source:addr": "FSA Food Hygiene Ratings Database",
+        "source:postcode": "FSA Food Hygiene Ratings Database",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26819169,
+      "lat": 51.516488,
+      "lon": -0.1872591,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "38",
+        "addr:postcode": "W2 6ES",
+        "addr:street": "Porchester Road",
+        "alt_name": "Waitrose Bayswater",
+        "brand": "Waitrose",
+        "brand:wikidata": "Q771734",
+        "brand:wikipedia": "en:Waitrose & Partners",
+        "fhrs:confidence_management": "0",
+        "fhrs:hygiene": "5",
+        "fhrs:id": "411125",
+        "fhrs:local_authority_id": "00189/0038/1/000",
+        "fhrs:rating": "5",
+        "fhrs:structural": "5",
+        "level": "0",
+        "name": "Waitrose",
+        "official_name": "Waitrose & Partners",
+        "opening_hours": "Mo-Sa 07:30-22:00; Su 11:00-17:00",
+        "operator": "Waitrose & Partners",
+        "shop": "supermarket",
+        "source:addr": "FSA Food Hygiene Ratings Database",
+        "source:postcode": "FSA Food Hygiene Ratings Database",
+        "website": "https://www.waitrose.com/find-a-store/bayswater",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26980206,
+      "lat": 51.6637267,
+      "lon": -0.0861793,
+      "tags": {
+        "brand": "Nisa Local",
+        "brand:wikidata": "Q16999069",
+        "brand:wikipedia": "en:Nisa (retailer)",
+        "check_date:opening_hours": "2022-03-13",
+        "name": "Nisa Local",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 27408324,
+      "lat": 51.5130812,
+      "lon": -0.3039875,
+      "tags": {
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "check_date": "2026-03-28",
+        "contact:website": "https://www.marksandspencer.com/stores/ealing-broadway-2613",
+        "level": "0;1;2;3",
+        "name": "Marks & Spencer",
+        "note": "This department store has 1 lift. It goes between the ground, first & second levels. It was installed by UK Lift.",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:30-20:00; Su 11:00-17:00",
+        "shop": "department_store",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 28885878,
+      "lat": 51.5159128,
+      "lon": 0.2892767,
+      "tags": {
+        "name": "IP Autos",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30584447,
+      "lat": 51.4773285,
+      "lon": -0.2861863,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:floor": "G",
+        "addr:housenumber": "9",
+        "addr:postcode": "TW9 3PS",
+        "addr:street": "Station Parade",
+        "check_date": "2025-05-22",
+        "level": "0",
+        "name": "Mia Wood",
+        "shop": "gift",
+        "website": "https://www.miawood.co.uk/our-shops/kew/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31313902,
+      "lat": 51.5143674,
+      "lon": -0.150589,
+      "tags": {
+        "brand": "Puma",
+        "brand:wikidata": "Q157064",
+        "check_date": "2026-02-19",
+        "name": "Puma",
+        "old_name": "Gap",
+        "shop": "clothes",
+        "toilets:wheelchair": "designated",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31472695,
+      "lat": 51.551496,
+      "lon": -0.3197216,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Odeon Parade, Allendale Road",
+        "name": "Siragro Food & Wine",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31476173,
+      "lat": 51.5575874,
+      "lon": -0.3357604,
+      "tags": {
+        "addr:city": "Harrow",
+        "addr:housenumber": "157",
+        "addr:postcode": "HA1 3QN",
+        "addr:street": "Greenford Road",
+        "amenity": "pharmacy",
+        "name": "Curapharm Chemist",
+        "old_name": "Dallas dispensing chemist;Boots",
+        "operator": "Boots UK Limited",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31476174,
+      "lat": 51.5575401,
+      "lon": -0.3353914,
+      "tags": {
+        "addr:city": "Harrow",
+        "addr:housenumber": "154",
+        "addr:street": "Greenford Road",
+        "fixme": "What is this?",
+        "level": "0",
+        "name": "Wonders London",
+        "old_name": "Clarke-Pharmacy;Curapharm",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31937418,
+      "lat": 51.3550571,
+      "lon": -0.2127681,
+      "tags": {
+        "addr:city": "Sutton",
+        "addr:housenumber": "48",
+        "addr:postcode": "SM2 7AJ",
+        "addr:street": "Upper Mulgrave Road",
+        "addr:suburb": "Cheam",
+        "alt_name": "Constance Post Office & Newsagent",
+        "amenity": "post_office",
+        "name": "Upper Mulgrave Road Post Office",
+        "operator": "Post Office Ltd",
+        "ref:pol_id": "19278",
+        "shop": "newsagent",
+        "source": "survey;pol_branch_list_2018-02"
+      }
+    },
+    {
+      "type": "node",
+      "id": 33869591,
+      "lat": 51.3621402,
+      "lon": -0.150492,
+      "tags": {
+        "addr:city": "Wallington",
+        "addr:housenumber": "75",
+        "addr:postcode": "SM6 0DE",
+        "addr:street": "Manor Road",
+        "dispensing": "yes",
+        "name": "Medipharmacy",
+        "operator": "Medipharmacy Group",
+        "shop": "chemist",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34578754,
+      "lat": 51.5222866,
+      "lon": -0.1722436,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "94",
+        "addr:postcode": "NW8 8EX",
+        "addr:street": "Church Street",
+        "alt_name": "Tesco Paddington Metro",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "check_date": "2025-09-03",
+        "fhrs:id": "1026631",
+        "name": "Tesco Express",
+        "operator": "Tesco",
+        "shop": "convenience",
+        "website": "https://www.tesco.com/store-locator/london/94-church-st"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36214440,
+      "lat": 51.5618259,
+      "lon": -0.3730943,
+      "tags": {
+        "addr:housenumber": "334",
+        "addr:street": "Eastcote Lane",
+        "brand": "Londis",
+        "brand:wikidata": "Q21008564",
+        "name": "Londis",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36223764,
+      "lat": 51.5517504,
+      "lon": -0.3503321,
+      "tags": {
+        "addr:city": "Northolt",
+        "addr:county": "Middlesex",
+        "addr:housenumber": "33-37",
+        "addr:postcode": "UB5 4RR",
+        "addr:street": "Oldfields Circus",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "contact:website": "https://store-locator.costcutter.co.uk/costcutter-3898f425bae6",
+        "fhrs:id": "1033246",
+        "name": "Costcutter",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36312259,
+      "lat": 51.3651976,
+      "lon": -0.1610793,
+      "tags": {
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/SM5-3AG/42-44-high-street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36494875,
+      "lat": 51.459473,
+      "lon": -0.3319207,
+      "tags": {
+        "brand": "Home Bargains",
+        "brand:wikidata": "Q5888229",
+        "name": "Home Bargains",
+        "shop": "variety_store",
+        "website": "https://storelocator.home.bargains/store/A776/Ivybridge+Retail+Park,+Twickenham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36494877,
+      "lat": 51.4599297,
+      "lon": -0.3320853,
+      "tags": {
+        "brand": "Halfords",
+        "brand:wikidata": "Q3398786",
+        "brand:wikipedia": "en:Halfords",
+        "name": "Halfords",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "car_parts",
+        "website": "https://www.halfords.com/locations/twickenham-superstore/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36496996,
+      "lat": 51.4601802,
+      "lon": -0.3321651,
+      "tags": {
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36511105,
+      "lat": 51.5148774,
+      "lon": -0.3372156,
+      "tags": {
+        "addr:city": "London",
+        "addr:floor": "G",
+        "addr:housenumber": "77",
+        "addr:postcode": "W7 1LJ",
+        "addr:street": "Greenford Avenue",
+        "check_date": "2025-09-18",
+        "level": "0",
+        "name": "P J News",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 36684378,
+      "lat": 51.5419717,
+      "lon": -0.3465432,
+      "tags": {
+        "addr:city": "Greenford",
+        "addr:country": "GB",
+        "addr:housenumber": "257",
+        "addr:postcode": "UB6 8PP",
+        "addr:street": "Oldfield Lane North",
+        "name": "Station Convenience Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 37155069,
+      "lat": 51.3632152,
+      "lon": -0.1720707,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "213",
+        "addr:postcode": "SM5 3PZ",
+        "addr:street": "Carshalton Road",
+        "brand": "Best-one",
+        "brand:wikidata": "Q4896532",
+        "fhrs:authority": "Sutton",
+        "fhrs:id": "898841",
+        "name": "Best-one",
+        "shop": "convenience",
+        "source": "streetlevel imagery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 38935912,
+      "lat": 51.4144257,
+      "lon": -0.3006861,
+      "tags": {
+        "addr:city": "Kingston",
+        "addr:housenumber": "48",
+        "addr:postcode": "KT2 5EE",
+        "addr:street": "Richmond Road",
+        "brand": "Evans Cycles",
+        "brand:wikidata": "Q5415901",
+        "brand:wikipedia": "en:Evans Cycles",
+        "name": "Evans Cycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 42220032,
+      "lat": 51.5362191,
+      "lon": -0.3450491,
+      "tags": {
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "name": "Spar",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45265874,
+      "lat": 51.6066678,
+      "lon": 0.2184595,
+      "tags": {
+        "addr:city": "Harold Hill",
+        "addr:housenumber": "10",
+        "addr:street": "Farnham Road",
+        "brand": "Iceland",
+        "brand:wikidata": "Q721810",
+        "contact:website": "https://www.iceland.co.uk/store-finder/store?StoreID=1220&StoreName=HAROLD%20HILL%20%28NEW%29",
+        "name": "Iceland",
+        "shop": "frozen_food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45273747,
+      "lat": 51.5938205,
+      "lon": 0.2343688,
+      "tags": {
+        "name": "Williams Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45273871,
+      "lat": 51.5934086,
+      "lon": 0.2328865,
+      "tags": {
+        "addr:city": "Harold Wood",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "RM3 0BP",
+        "addr:street": "Station Road",
+        "brand": "Nisa Local",
+        "brand:wikidata": "Q16999069",
+        "name": "Nisa Local",
+        "opening_hours": "Mo-Sa 06:00-23:00, Su 07:00-22:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 1708 898243",
+        "shop": "convenience",
+        "website": "https://www.nisalocally.co.uk/stores/essex/romford/1-3-station-rd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45274552,
+      "lat": 51.5935962,
+      "lon": 0.2333935,
+      "tags": {
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/RM3-0BP/15-station-road",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45276256,
+      "lat": 51.5934223,
+      "lon": 0.2330465,
+      "tags": {
+        "addr:city": "Harold Wood",
+        "addr:housenumber": "5",
+        "addr:postcode": "RM3 0BP",
+        "addr:street": "Station Road",
+        "name": "Images",
+        "opening_hours": "Tu-Fr 09:00-19:30, Sa 08:00-17:00, Su 09:00-16:00",
+        "phone": "+44 1708 373244",
+        "shop": "hairdresser",
+        "website": "https://www.treatwell.co.uk/place/images-hairdressing-1/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45284148,
+      "lat": 51.5954721,
+      "lon": 0.2195656,
+      "tags": {
+        "brand": "B&Q",
+        "brand:wikidata": "Q707602",
+        "contact:website": "https://www.diy.com/store/1257",
+        "name": "B&Q",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49233948,
+      "lat": 51.6495733,
+      "lon": -0.1714391,
+      "tags": {
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "name": "Sainsbury's New Barnet",
+        "shop": "supermarket",
+        "website": "https://stores.sainsburys.co.uk/0124/new-barnet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49311845,
+      "lat": 51.6559569,
+      "lon": -0.2039214,
+      "tags": {
+        "addr:postcode": "EN5 5XY",
+        "brand": "Waitrose",
+        "brand:wikidata": "Q771734",
+        "brand:wikipedia": "en:Waitrose",
+        "fhrs:id": "756930",
+        "level": "0",
+        "name": "Waitrose",
+        "official_name": "Waitrose & Partners",
+        "operator": "Waitrose & Partners",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.waitrose.com/find-a-store/barnet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49879534,
+      "lat": 51.5966742,
+      "lon": -0.1980072,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "238",
+        "addr:postcode": "N3 3HP",
+        "addr:street": "Regents Park Road",
+        "brand": "Morrisons Daily",
+        "brand:wikidata": "Q99752411",
+        "fhrs:id": "1705096",
+        "name": "Morrisons Daily",
+        "opening_hours": "Mo-Fr 05:30-17:30; Sa 06:00-17:30; Su 06:00-12:00",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data",
+        "source:name": "FHRS Open Data",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 57215757,
+      "lat": 51.539616,
+      "lon": -0.0558389,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "150",
+        "addr:postcode": "E8 3SG",
+        "addr:street": "Mare Street",
+        "brand": "Iceland",
+        "brand:wikidata": "Q721810",
+        "brand:wikipedia": "en:Iceland (supermarket)",
+        "check_date:opening_hours": "2025-10-09",
+        "contact:website": "https://www.iceland.co.uk/store-finder/store?StoreID=197&StoreName=HACKNEY",
+        "fhrs:id": "606423",
+        "name": "Iceland",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 11:00-17:00",
+        "shop": "frozen_food",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60011421,
+      "lat": 51.5220451,
+      "lon": -0.0462196,
+      "tags": {
+        "brand": "Ladbrokes",
+        "brand:wikidata": "Q1799875",
+        "brand:wikipedia": "en:Ladbrokes Coral",
+        "name": "Ladbrokes",
+        "opening_hours": "Mo-Fr 08:30-22:00, Sa 10:00-18:30, Su 10:00-21:30",
+        "shop": "bookmaker",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60093128,
+      "lat": 51.5821551,
+      "lon": 0.187085,
+      "tags": {
+        "addr:housenumber": "21",
+        "addr:postcode": "RM1 3BT",
+        "addr:street": "Main Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "brand:wikipedia": "en:Tesco",
+        "check_date": "2025-05-25",
+        "contact:website": "https://www.tesco.com/store-locator/romford/21-main-rd",
+        "fhrs:id": "372795",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60661040,
+      "lat": 51.5233233,
+      "lon": -0.1244579,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "40",
+        "addr:postcode": "WC1N 1BY",
+        "addr:street": "Bernard Street",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "brand:wikipedia": "en:Tesco",
+        "check_date": "2026-01-13",
+        "check_date:opening_hours": "2026-01-13",
+        "contact:website": "https://www.tesco.com/store-locator/london/40-bernard-st",
+        "fhrs:id": "425086",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su,PH 00:00-23:59+",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 64811055,
+      "lat": 51.4429141,
+      "lon": -0.0271434,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "23-25",
+        "addr:postcode": "SE6 4NU",
+        "addr:street": "Catford Hill",
+        "building:levels": "1",
+        "check_date": "2025-11-22",
+        "currency:GBP": "yes",
+        "email": "info@comptoncycles.co.uk",
+        "level": "0",
+        "name": "Compton Cycles",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+44 20 8690 0141",
+        "ref:vatin": "GB207061795",
+        "second_hand": "no",
+        "service:bicycle:dealer": "yes",
+        "service:bicycle:ebike": "yes",
+        "service:bicycle:electric_bikes": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "source": "survey",
+        "start_date": "1975",
+        "stroller": "limited",
+        "website": "https://www.comptoncycles.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 96528640,
+      "lat": 51.4889416,
+      "lon": 0.3396568,
+      "tags": {
+        "addr:city": "Grays",
+        "addr:street": "Lodge Lane",
+        "name": "D Johnson & Sons",
+        "shop": "butcher",
+        "survey:date": "2021-07-20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 132686936,
+      "lat": 51.2879771,
+      "lon": -0.089396,
+      "tags": {
+        "addr:city": "Caterham",
+        "addr:housenumber": "16-17,19-21",
+        "addr:parentstreet": "Town End",
+        "addr:postcode": "CR3 5UG",
+        "addr:street": "Raglan Precinct",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "fhrs:authority": "Tandridge",
+        "fhrs:id": "680742",
+        "is_in": "Surrey, England",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "source": "survey",
+        "survey:date": "2018-09-24",
+        "website": "https://www.coop.co.uk/store-finder/CR3-5UG/townend-road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 133191330,
+      "lat": 51.5220895,
+      "lon": -0.0460002,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "193",
+        "addr:postcode": "E1 4AA",
+        "addr:street": "Mile End Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "check_date": "2024-04-27",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "convenience",
+        "website": "https://www.tesco.com/store-locator/london/193-mile-end-road",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 137790430,
+      "lat": 51.5216251,
+      "lon": -0.0452211,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "112",
+        "addr:postcode": "E1 4LR",
+        "addr:street": "White Horse Lane",
+        "check_date:opening_hours": "2024-02-08",
+        "fhrs:id": "362300",
+        "name": "Dhara News",
+        "opening_hours:signed": "no",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 137790992,
+      "lat": 51.5215243,
+      "lon": -0.0451518,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "106-108",
+        "addr:postcode": "E1 4LR",
+        "addr:street": "White Horse Lane",
+        "check_date:opening_hours": "2024-02-14",
+        "fhrs:id": "42148",
+        "name": "Cost u Less",
+        "opening_hours:signed": "no",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 137791309,
+      "lat": 51.5213817,
+      "lon": -0.045052,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "100",
+        "addr:postcode": "E1 4LR",
+        "addr:street": "White Horse Lane",
+        "fhrs:id": "362537",
+        "name": "Medichem Pharmacy",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:30",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 137791776,
+      "lat": 51.5213412,
+      "lon": -0.0450239,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "98",
+        "addr:postcode": "E1 4LR",
+        "addr:street": "White Horse Lane",
+        "check_date:opening_hours": "2024-03-03",
+        "fhrs:id": "42135",
+        "name": "Stepney Fruit & Veg",
+        "opening_hours:signed": "no",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 142436112,
+      "lat": 51.5230567,
+      "lon": -0.0545305,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "64-66",
+        "addr:postcode": "E1 5QJ",
+        "addr:street": "Cambridge Heath Road",
+        "fhrs:id": "99942",
+        "name": "Cambridge Supermarket",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 142528191,
+      "lat": 51.5210289,
+      "lon": -0.0496592,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "156-158",
+        "addr:street": "Mile End Road",
+        "brand": "Leyland SDM",
+        "brand:wikidata": "Q110437963",
+        "name": "Leyland SDM",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "node",
+      "id": 144122753,
+      "lat": 51.5707414,
+      "lon": -0.1333668,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "91",
+        "addr:street": "Dresden Road",
+        "name": "Becky's Convenience Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 144128316,
+      "lat": 51.5701349,
+      "lon": -0.132453,
+      "tags": {
+        "check_date": "2025-12-15",
+        "name": "The Village Garage",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 169373136,
+      "lat": 51.4991055,
+      "lon": -0.1385776,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "35",
+        "addr:street": "Buckingham Gate",
+        "name": "Prime Dry Cleaners",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 203724940,
+      "lat": 51.5073322,
+      "lon": -0.0548708,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1A",
+        "addr:postcode": "E1W 3QT",
+        "addr:street": "Garnet Street",
+        "fhrs:id": "42697",
+        "name": "Riverside General Store",
+        "opening_hours": "Mo-Sa 06:30-20:00; Su 06:30-15:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 213686196,
+      "lat": 51.5197682,
+      "lon": -0.225794,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "13-15",
+        "addr:postcode": "W10 6QH",
+        "addr:street": "North Pole Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "brand:wikipedia": "en:Tesco",
+        "contact:website": "https://www.tesco.com/store-locator/london/13-15-north-pole-rd",
+        "fhrs:id": "499782",
+        "level": "0",
+        "name": "Tesco Express",
+        "name:fa": "تسکو اکسپرس",
+        "old_name": "The North Pole",
+        "opening_hours": "06:00-23:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 225978498,
+      "lat": 51.5923657,
+      "lon": -0.2338397,
+      "tags": {
+        "name": "Evans Cycles",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 242062212,
+      "lat": 51.6510215,
+      "lon": 0.2654449,
+      "tags": {
+        "name": "Nick's Tyres",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 243583757,
+      "lat": 51.4252759,
+      "lon": -0.04804,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "106-112",
+        "addr:postcode": "SE26 5JX",
+        "addr:street": "Sydenham Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "contact:facebook": "lidlgb",
+        "contact:instagram": "lidlgb",
+        "fhrs:id": "1598792",
+        "name": "Lidl",
+        "name:fa": "لیدل",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-16:00",
+        "operator": "Lidl",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/london/sydenham/sydenham-road-106/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 243584788,
+      "lat": 51.4263195,
+      "lon": -0.0262991,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "237-249",
+        "addr:postcode": "SE6 3DS",
+        "addr:street": "Southend Lane",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "check_date": "2025-06-27",
+        "currency:GBP": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "255054",
+        "level": "0",
+        "name": "Lidl",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "second_hand": "no",
+        "shop": "supermarket",
+        "source": "survey",
+        "toilets": "no",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/london/bellingham/southend-lane/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 243772154,
+      "lat": 51.4676607,
+      "lon": 0.0283014,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "122",
+        "addr:postcode": "SE3 8AR",
+        "addr:street": "Rochester Way",
+        "alt_name": "Kidbrooke Parade Convenience Store",
+        "amenity": "post_office",
+        "name": "Kidbrooke Parade Post Office",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-13:00",
+        "ref:pol_id": "18159",
+        "shop": "convenience",
+        "website": "https://www.postoffice.co.uk/branch-finder/0630071/kidbrooke-parade"
+      }
+    },
+    {
+      "type": "node",
+      "id": 243832551,
+      "lat": 51.4588131,
+      "lon": 0.0045483,
+      "tags": {
+        "brand": "M&S Simply Food",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "check_date": "2026-03-03",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/lee-lewisham-bp-75",
+        "name": "M&S Simply Food",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "operator": "BP",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245435426,
+      "lat": 51.5758549,
+      "lon": -0.1511189,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "19",
+        "addr:street": "North Hill",
+        "fhrs:id": "423360",
+        "name": "North Hill Food & Wine",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 246116024,
+      "lat": 51.4533735,
+      "lon": -0.1467756,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "South Clapham Hospital",
+        "addr:housenumber": "128",
+        "addr:postcode": "SW4 9DF",
+        "addr:street": "Clapham Common South Side",
+        "alt_name": "Tesco Clapham Superstore",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "check_date": "2023-08-29",
+        "contact:website": "https://www.tesco.com/store-locator/london/128-clapham-common-south-side",
+        "fhrs:id": "483345",
+        "name": "Tesco",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-16:00",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247956786,
+      "lat": 51.5064173,
+      "lon": -0.0892636,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Southwark Cathedral",
+        "addr:postcode": "SE1 9DA",
+        "addr:street": "Montague Close",
+        "branch": "at The Southwark Cathedral Cafe",
+        "brand": "Bread Ahead",
+        "brand:wikidata": "Q110984949",
+        "brand:wikipedia": "en:Bread Ahead",
+        "cuisine": "coffee_shop;bakery",
+        "fhrs:id": "363395",
+        "name": "Bread Ahead",
+        "old_name": "The Refectory",
+        "outdoor_seating": "yes",
+        "phone": "+44 20 7403 5444",
+        "shop": "bakery",
+        "source": "https://www.breadahead.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247956793,
+      "lat": 51.506204,
+      "lon": -0.0877234,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "6",
+        "addr:postcode": "SE1 2SX",
+        "addr:street": "Tooley Street",
+        "brand": "Evans Cycles",
+        "brand:wikidata": "Q5415901",
+        "brand:wikipedia": "en:Evans Cycles",
+        "level": "0",
+        "name": "Evans Cycles",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:30-18:00; Su 11:00-17:00",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "no",
+        "shop": "bicycle",
+        "website": "https://www.evanscycles.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247957484,
+      "lat": 51.5061488,
+      "lon": -0.08721,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "3-4",
+        "addr:postcode": "SE1 9DA",
+        "addr:street": "London Bridge Walk",
+        "check_date": "2026-03-26",
+        "level": "1",
+        "name": "On Your Bike",
+        "note": "On y bike occupies 2 units, including the former carphone warehouse (most recently tagged as vacant)",
+        "opening_hours": "Mo-Fr 07:30-19:30; Sa 10:00-18:00",
+        "phone": "+44 20 7378 6669",
+        "repair": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "https://www.onyourbike.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247957874,
+      "lat": 51.5084239,
+      "lon": -0.1078879,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "OXO Tower",
+        "addr:postcode": "SE1 9PH",
+        "addr:street": "The Queen's Walk",
+        "level": "0",
+        "name": "Brand Academy",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248042435,
+      "lat": 51.3534368,
+      "lon": -0.1345426,
+      "tags": {
+        "addr:city": "Wallington",
+        "addr:housenumber": "1",
+        "addr:postcode": "SM6 9DA",
+        "addr:street": "Mollison Square",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "fhrs:id": "898898",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "convenience",
+        "website": "https://www.coop.co.uk/store-finder/SM6-9DA/mollison-drive"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248228823,
+      "lat": 51.3573668,
+      "lon": -0.1485364,
+      "tags": {
+        "addr:city": "Wallington",
+        "addr:housename": "Langham House",
+        "addr:housenumber": "3",
+        "addr:postcode": "SM6 9AQ",
+        "addr:street": "Stafford Road",
+        "name": "Wallington Cycles",
+        "note": "Formerly Action Bikes",
+        "shop": "bicycle",
+        "url": "http://www.wallingtoncycles.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248443157,
+      "lat": 51.5287243,
+      "lon": -0.0837452,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "51-53",
+        "addr:postcode": "N1 6BU",
+        "addr:street": "Pitfield Street",
+        "check_date": "2023-08-01",
+        "dog": "yes",
+        "fhrs:id": "469798",
+        "name": "Shopping Tree Hoxton",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248443159,
+      "lat": 51.5272456,
+      "lon": -0.0834652,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "18b",
+        "addr:postcode": "N1 6EY",
+        "addr:street": "Pitfield Street",
+        "fhrs:id": "469591",
+        "name": "VB Stores",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248443161,
+      "lat": 51.5309514,
+      "lon": -0.0860938,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "55",
+        "addr:postcode": "N1 6JB",
+        "addr:street": "New North Road",
+        "fhrs:id": "469266",
+        "name": "Zeyno Supermarket",
+        "shop": "convenience",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248444186,
+      "lat": 51.5256052,
+      "lon": -0.0905348,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "185",
+        "addr:postcode": "EC1V 9NP",
+        "addr:street": "Old Street",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "check_date": "2025-03-10",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Sa 06:00-24:00, Su 11:00-17:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/EC1V-9NP/185-old-street",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248549872,
+      "lat": 51.495753,
+      "lon": -0.0391581,
+      "tags": {
+        "created_by": "Potlatch 0.7b",
+        "name": "The Specialist",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248549891,
+      "lat": 51.4957263,
+      "lon": -0.0393555,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "8",
+        "addr:postcode": "SE16 7PL",
+        "addr:street": "Russell Place",
+        "fhrs:id": "363677",
+        "name": "Crighton News",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249315771,
+      "lat": 51.5051095,
+      "lon": -0.0580509,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "64",
+        "addr:postcode": "E1W 2RL",
+        "addr:street": "Wapping Lane",
+        "fhrs:id": "43844",
+        "name": "Hussey's Butchers",
+        "opening_hours": "Mo-Fr 07:00-19:30; Sa 07:00-17:30; Su 09:00-14:00",
+        "phone": "+44 20 7488 3686",
+        "shop": "butcher",
+        "website": "http://www.husseyswappinglane.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249793692,
+      "lat": 51.5111941,
+      "lon": -0.3182723,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "140-144",
+        "addr:postcode": "W13 8SB",
+        "addr:street": "Uxbridge Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "check_date": "2026-03-13",
+        "contact:website": "https://www.tesco.com/store-locator/london/140-144-uxbridge-rd",
+        "fhrs:id": "1033247",
+        "level": "0",
+        "name": "Tesco Express",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250312696,
+      "lat": 51.3784141,
+      "lon": -0.1551481,
+      "tags": {
+        "addr:city": "Wallington",
+        "addr:housenumber": "27",
+        "addr:postcode": "SM6 7HW",
+        "addr:street": "London Road",
+        "check_date": "2023-06-02",
+        "dispensing": "yes",
+        "name": "Anna Pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su off",
+        "shop": "chemist",
+        "source": "survey;code-point open"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252705277,
+      "lat": 51.4031557,
+      "lon": 0.1620939,
+      "tags": {
+        "addr:city": "Swanley",
+        "addr:postcode": "BR8 7HB",
+        "addr:street": "London Road",
+        "addr:substreet": "Heathwood Parade",
+        "addr:unit": "1",
+        "check_date": "2024-07-01",
+        "check_date:opening_hours": "2024-07-01",
+        "name": "J-S newsagents",
+        "opening_hours:signed": "no",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252707575,
+      "lat": 51.4388564,
+      "lon": 0.2030218,
+      "tags": {
+        "brand": "Halfords",
+        "brand:wikidata": "Q3398786",
+        "brand:wikipedia": "en:Halfords",
+        "name": "Halfords",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:tools": "yes",
+        "shop": "car_parts",
+        "website": "https://www.halfords.com/locations/dartford-store/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253252073,
+      "lat": 51.3607428,
+      "lon": -0.4165886,
+      "tags": {
+        "name": "Squires",
+        "phone": "+44 1932 247579",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253365249,
+      "lat": 51.3857814,
+      "lon": -0.4255186,
+      "tags": {
+        "brand": "Aston Martin",
+        "designation": "Authorised Aston Martin and Alfa Romeo dealer and genuine parts supplier",
+        "name": "HWM Group Aston Martin & Alfa Romeo",
+        "shop": "car",
+        "source": "Survey, www.astonmartin.com and www.hwmastonmartin.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253469667,
+      "lat": 51.3685831,
+      "lon": -0.3953502,
+      "tags": {
+        "brand": "Volkswagen",
+        "brand:wikidata": "Q246",
+        "name": "Volkswagen",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253469668,
+      "lat": 51.3680754,
+      "lon": -0.3965727,
+      "tags": {
+        "addr:city": "Hersham",
+        "addr:housenumber": "88",
+        "addr:postcode": "KT12 4RG",
+        "addr:street": "Molesey Road",
+        "hairdresser": "barber",
+        "name": "The Revolution",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254338354,
+      "lat": 51.4397631,
+      "lon": -0.4160603,
+      "tags": {
+        "addr:city": "Feltham",
+        "addr:housename": "Parkfield Parade",
+        "addr:housenumber": "9",
+        "addr:postcode": "TW13 4HJ",
+        "addr:street": "High Street",
+        "amenity": "post_office",
+        "fhrs:id": "941737",
+        "fhrs:local_authority_id": "113971",
+        "level": "0",
+        "name": "1st Class Wines",
+        "opening_hours:post_office": "Mo-Th 09:00-17:30; Fr 09:00-17:00; Sa 09:00-13:00",
+        "ref:pol_id": "18842",
+        "shop": "alcohol",
+        "website": "https://www.postoffice.co.uk/branch-finder/1170252/spring-corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254383447,
+      "lat": 51.532981,
+      "lon": -0.0802413,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "N1 5LG",
+        "addr:street": "Hoxton Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa,PH 08:00-22:00; Su 11:00-17:00",
+        "payment:cash": "yes",
+        "shop": "supermarket",
+        "was:name": "Iceland",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/london/hoxton-street",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255006104,
+      "lat": 51.5787615,
+      "lon": -0.1240166,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "11",
+        "addr:postcode": "N8 8DU",
+        "addr:street": "The Broadway",
+        "amenity": "pharmacy",
+        "branch": "London Crouch End",
+        "brand": "Boots",
+        "brand:wikidata": "Q6123139",
+        "check_date": "2025-08-09",
+        "contact:website": "http://www.boots.com/stores/788-london-crouch-end-n8-8du",
+        "dispensing": "yes",
+        "fhrs:id": "422916",
+        "fhrs:local_authority_id": "PI/000129448",
+        "healthcare": "pharmacy",
+        "name": "Boots",
+        "operator": "Boots UK Limited",
+        "ref": "788",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255012043,
+      "lat": 51.5792052,
+      "lon": -0.1239889,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "25",
+        "addr:postcode": "N8 8DU",
+        "addr:street": "The Broadway",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "contact:website": "https://www.tesco.com/store-locator/london/25-the-broadway",
+        "fhrs:id": "422062",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255012050,
+      "lat": 51.577306,
+      "lon": -0.1246843,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "71",
+        "addr:postcode": "N8 8DH",
+        "addr:street": "Crouch End Hill",
+        "brand": "Marks & Spencer",
+        "brand:wikidata": "Q714491",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/crouch-end-simply-food-7870",
+        "fhrs:id": "422343",
+        "name": "Marks & Spencer",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 11:00-17:00",
+        "phone": "+44 20 8347 6283",
+        "shop": "department_store",
+        "toilets": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255684387,
+      "lat": 51.5150338,
+      "lon": -0.1943394,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "117-121",
+        "addr:street": "Westbourne Grove",
+        "name": "Lords Builders Merchants",
+        "phone": "+44 20 7313 7480",
+        "shop": "doityourself",
+        "website": "https://lordsbm.co.uk/branch/lords-westbourne-grove/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 256141206,
+      "lat": 51.6042623,
+      "lon": -0.3400013,
+      "tags": {
+        "check_date": "2026-02-02",
+        "fixme": "I'm not really sure of the right tag to use, seems to be elective plastic surgery on their website.",
+        "name": "Estehair Medical",
+        "shop": "beauty",
+        "website": "https://www.estehairmedical.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 257163583,
+      "lat": 51.650179,
+      "lon": -0.4350208,
+      "tags": {
+        "addr:city": "Rickmansworth",
+        "addr:housenumber": "193",
+        "addr:postcode": "WD3 3EH",
+        "addr:street": "Watford Road",
+        "addr:suburb": "Croxley Green",
+        "name": "Technical Merritt Computer Services",
+        "shop": "computer",
+        "source": "contributor OR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 257163685,
+      "lat": 51.6522931,
+      "lon": -0.4327637,
+      "tags": {
+        "addr:city": "Rickmansworth",
+        "addr:housename": "Spar",
+        "addr:housenumber": "47-49",
+        "addr:postcode": "WD3 3LS",
+        "addr:street": "Baldwins Lane",
+        "addr:suburb": "Croxley Green",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
+        "fhrs:id": "1133694",
+        "name": "Spar",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 1923 229607",
+        "shop": "convenience",
+        "source": "contributor OR",
+        "website": "https://www.spar.co.uk/store-locator/afb11518-spar-croxley-green"
+      }
+    },
+    {
+      "type": "node",
+      "id": 257464734,
+      "lat": 51.4933611,
+      "lon": -0.2416116,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "327-343",
+        "addr:postcode": "W6 9NH",
+        "addr:street": "King Street",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "contact:website": "https://www.tesco.com/store-locator/london/327-343-king-st",
+        "fhrs:id": "346021",
+        "name": "Tesco Express",
+        "name:fa": "تسکو اکسپرس",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016396,
+      "lat": 51.3549666,
+      "lon": -0.1623279,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "136",
+        "addr:postcode": "SM5 3JG",
+        "addr:street": "Stanley Park Road",
+        "brand": "Londis",
+        "brand:wikidata": "Q21008564",
+        "fhrs:authority": "Sutton",
+        "fhrs:id": "1028946",
+        "name": "Londis",
+        "shop": "convenience",
+        "source": "survey;fhrs",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016400,
+      "lat": 51.354887,
+      "lon": -0.1626418,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "144",
+        "addr:postcode": "SM5 3JG",
+        "addr:street": "Stanley Park Road",
+        "name": "JK CCTV & Technologies",
+        "shop": "cctv",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016401,
+      "lat": 51.3548074,
+      "lon": -0.163024,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "148",
+        "addr:postcode": "SM5 3JG",
+        "addr:street": "Stanley Park Road",
+        "name": "Sam's Barbers",
+        "shop": "hairdresser",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016404,
+      "lat": 51.3548175,
+      "lon": -0.1629542,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "152",
+        "addr:postcode": "SM5 3JG",
+        "addr:street": "Stanley Park Road",
+        "name": "Lushley So",
+        "shop": "hairdresser",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016410,
+      "lat": 51.3546402,
+      "lon": -0.1625578,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "107",
+        "addr:postcode": "SM5 3JJ",
+        "addr:street": "Stanley Park Road",
+        "name": "Hair Gallery",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016411,
+      "lat": 51.3546658,
+      "lon": -0.1624673,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "105",
+        "addr:postcode": "SM5 3JJ",
+        "addr:street": "Stanley Park Road",
+        "fhrs:authority": "Sutton",
+        "fhrs:id": "898980",
+        "name": "day 1",
+        "shop": "convenience",
+        "source": "survey;fhrs",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016413,
+      "lat": 51.3547052,
+      "lon": -0.1622936,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "101",
+        "addr:postcode": "SM5 3JJ",
+        "addr:street": "Stanley Park Road",
+        "name": "Shutes Tattoos",
+        "shop": "tattoo",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016415,
+      "lat": 51.352929,
+      "lon": -0.1621619,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "47",
+        "addr:postcode": "SM5 4LE",
+        "addr:street": "Stanley Road",
+        "fhrs:authority": "Sutton",
+        "fhrs:id": "898497",
+        "name": "Corners",
+        "shop": "convenience",
+        "source": "survey;fhrs",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258016827,
+      "lat": 51.4455599,
+      "lon": 0.2602452,
+      "tags": {
+        "brand": "Nisa Local",
+        "brand:wikidata": "Q16999069",
+        "check_date": "2025-07-19",
+        "contact:website": "https://www.nisalocally.co.uk/stores/kent/greenhithe/229-london-rd",
+        "name": "Nisa Local",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr,Sa 07:00-21:00; Su 10:00-17:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 258366201,
+      "lat": 51.4350204,
+      "lon": 0.2453833,
+      "tags": {
+        "addr:city": "Dartford",
+        "addr:country": "GB",
+        "addr:housename": "Fleetdale Parade",
+        "addr:housenumber": "30 - 34",
+        "addr:postcode": "DA2 6JB",
+        "addr:street": "Fleet Avenue",
+        "addr:unit": "30-34",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "brand:wikipedia": "en:Costcutter",
+        "check_date:opening_hours": "2024-07-22",
+        "contact:website": "https://store-locator.costcutter.co.uk/costcutter-92997cfa2279",
+        "fhrs:id": "1537221",
+        "name": "Costcutter",
+        "opening_hours:signed": "no",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 261631697,
+      "lat": 51.2927195,
+      "lon": 0.3027694,
+      "tags": {
+        "check_date": "2025-11-28",
+        "name": "Cotor Flooring Ltd",
+        "shop": "carpet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 262411966,
+      "lat": 51.5203402,
+      "lon": -0.0525884,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "86",
+        "addr:postcode": "E1 4UN",
+        "addr:street": "Mile End Road",
+        "cuisine": "chinese",
+        "fhrs:id": "101276",
+        "fhrs:local_authority_id": "33016",
+        "name": "China Ark",
+        "old_name": "Red Dragon",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 262566445,
+      "lat": 51.5546535,
+      "lon": -0.3537862,
+      "tags": {
+        "brand": "Londis",
+        "brand:wikidata": "Q21008564",
+        "name": "Londis Off Licence",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263017298,
+      "lat": 51.5601351,
+      "lon": -0.0778245,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "49",
+        "addr:postcode": "N16 0EB",
+        "addr:street": "Kynaston Road",
+        "fhrs:id": "1390738",
+        "name": "5 Sapphires",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263017299,
+      "lat": 51.5577371,
+      "lon": -0.0790332,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "47",
+        "addr:postcode": "N16 0RT",
+        "addr:street": "Barbauld Road",
+        "fhrs:id": "470233",
+        "name": "Düzce Supermarket",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263017301,
+      "lat": 51.5619667,
+      "lon": -0.0751152,
+      "tags": {
+        "name": "Stoke Newington Farmers' Market",
+        "opening_hours": "Sa 10:00-14:30",
+        "shop": "market"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263018277,
+      "lat": 51.5622036,
+      "lon": -0.0752635,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "32-40",
+        "addr:postcode": "N16 0LU",
+        "addr:street": "Stoke Newington Church Street",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "check_date": "2024-10-03",
+        "check_date:opening_hours": "2024-10-03",
+        "fhrs:id": "469337",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+        "organic": "only",
+        "phone": "+44 20 7254 2332",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:addr": "interpolation",
+        "website": "https://www.wholefoodsmarket.co.uk/stoke-newington",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263018280,
+      "lat": 51.5606161,
+      "lon": -0.073687,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "N16 7NY",
+        "addr:street": "Stoke Newington High Street",
+        "fhrs:id": "469669",
+        "name": "The Royal Bakery",
+        "shop": "bakery",
+        "source:postcode": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263018284,
+      "lat": 51.5617221,
+      "lon": -0.0738278,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "167",
+        "addr:postcode": "N16 0NY",
+        "addr:street": "Stoke Newington High Street",
+        "fhrs:id": "470673",
+        "name": "Hamdy's Newsagent",
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264046250,
+      "lat": 51.4356403,
+      "lon": -0.0339325,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "87-91",
+        "addr:postcode": "SE6 4LJ",
+        "addr:street": "Perry Hill",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "check_date": "2022-11-20",
+        "contact:website": "https://www.tesco.com/store-locator/london/87-89-perry-hill",
+        "currency:GBP": "yes",
+        "fhrs:id": "1598849",
+        "name": "Tesco Express",
+        "name:fa": "تسکو",
+        "opening_hours": "06:00-23:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "convenience",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264515623,
+      "lat": 51.5173718,
+      "lon": -0.1206414,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "129-133",
+        "addr:postcode": "WC2B 6NH",
+        "addr:street": "Kingsway",
+        "air_conditioning": "yes",
+        "alt_name": "Sainsbury's Local Holborn",
+        "brand": "Sainsbury's Local",
+        "brand:wikidata": "Q13218434",
+        "brand:wikipedia": "en:Sainsbury's Local",
+        "contact:phone": "+44 20 7242 6320",
+        "fhrs:id": "807690",
+        "fhrs:local_authority_id": "36853",
+        "level": "0",
+        "name": "Sainsbury's Local",
+        "opening_hours": "Mo-Sa 06:00-24:00, Su 01:00-19:00",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264523231,
+      "lat": 51.5050455,
+      "lon": -0.0829194,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "SE1 2DA",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "check_date": "2025-10-31",
+        "check_date:opening_hours": "2025-10-31",
+        "contact:website": "https://www.marksandspencer.com/stores/london-more-riverside-simply-food-7980",
+        "name": "M&S Simply Food",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 10:00-21:00",
+        "phone": "+44 20 7357 9489",
+        "shop": "convenience",
+        "toilets": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264523233,
+      "lat": 51.5050408,
+      "lon": -0.0833755,
+      "tags": {
+        "addr:unit": "B",
+        "branch": "More London",
+        "brand": "Ole & Steen",
+        "brand:wikidata": "Q12323572",
+        "check_date": "2026-02-09",
+        "level": "0",
+        "name": "Ole & Steen",
+        "old_name": "Caffè Nero",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264803334,
+      "lat": 51.4877121,
+      "lon": -0.1114842,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "296-300",
+        "addr:postcode": "SE11 4LD",
+        "addr:street": "Kennington Road",
+        "check_date": "2026-01-07",
+        "fhrs:id": "1371905",
+        "name": "Didi & Franc",
+        "opening_hours": "Mo off; Tu off; We-Sa 12:00-21:30; Su 11:00-16:00",
+        "shop": "wine",
+        "website": "https://www.instagram.com/didiandfranc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 265255750,
+      "lat": 51.5101799,
+      "lon": -0.2871931,
+      "tags": {
+        "addr:floor": "G",
+        "addr:housenumber": "11",
+        "addr:street": "Station Parade",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "check_date": "2025-01-19",
+        "level": "0",
+        "name": "Drinks, Food And Wine",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 265662963,
+      "lat": 51.4958553,
+      "lon": -0.1420198,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "320",
+        "addr:postcode": "SW1V 1AA",
+        "addr:street": "Vauxhall Bridge Road",
+        "branch": "Collect",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "brand:wikipedia": "en:Screwfix",
+        "check_date": "2026-02-18",
+        "name": "Screwfix",
+        "opening_hours": "Mo-Fr 07:00-20:00, Sa 07:00-18:00, Su 09:00-16:00",
+        "shop": "doityourself",
+        "website": "https://www.screwfix.com/stores/EC5/london-victoria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266415275,
+      "lat": 51.4965622,
+      "lon": -0.0091503,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "286",
+        "addr:postcode": "E14 3HW",
+        "addr:street": "Manchester Road",
+        "brand": "Nisa Local",
+        "brand:wikidata": "Q16999069",
+        "fhrs:id": "84904",
+        "name": "Nisa Local",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "convenience",
+        "website": "https://www.nisalocally.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266739707,
+      "lat": 51.3669302,
+      "lon": -0.1960826,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "SM1 1JN",
+        "addr:street": "St. Nicholas Way",
+        "name": "Sutton Music Centre",
+        "shop": "music",
+        "source": "local_knowledge;survey",
+        "website": "https://suttonmusic.co.uk",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266743834,
+      "lat": 51.3661315,
+      "lon": -0.2057378,
+      "tags": {
+        "addr:city": "Sutton",
+        "addr:housenumber": "143",
+        "addr:postcode": "SM1 2EZ",
+        "addr:street": "Gander Green Lane",
+        "fhrs:authority": "Sutton",
+        "fhrs:id": "898565",
+        "name": "Day's Stores",
+        "shop": "convenience",
+        "source": "photo;survey;fhrs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266885460,
+      "lat": 51.3851513,
+      "lon": -0.2387021,
+      "tags": {
+        "name": "Onslow Motors",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267432003,
+      "lat": 51.501141,
+      "lon": -0.125277,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "8-9",
+        "addr:postcode": "SW1A 2JR",
+        "addr:street": "Bridge Street",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "brand:wikipedia": "en:Tesco",
+        "check_date": "2024-09-04",
+        "contact:website": "https://www.tesco.com/store-locator/london/portcullis-house",
+        "fhrs:id": "412313",
+        "name": "Tesco Express",
+        "name:be": "Тэска Экспрэс",
+        "name:en": "Tesco Express",
+        "name:fa": "تسکو اکسپرس",
+        "name:ru": "Теско Экспресс",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "payment:american_express": "yes",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268123996,
+      "lat": 51.3584079,
+      "lon": -0.2163717,
+      "tags": {
+        "brand": "Cancer Research UK",
+        "brand:wikidata": "Q326079",
+        "brand:wikipedia": "en:Cancer Research UK",
+        "name": "Cancer Research UK",
+        "shop": "charity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268124547,
+      "lat": 51.3578738,
+      "lon": -0.215905,
+      "tags": {
+        "name": "St Raphael's Hospice",
+        "shop": "charity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268124749,
+      "lat": 51.3584548,
+      "lon": -0.2167147,
+      "tags": {
+        "brand": "Save the Children",
+        "brand:wikidata": "Q215934",
+        "name": "Save the Children",
+        "shop": "charity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268503198,
+      "lat": 51.630385,
+      "lon": -0.17544,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1263-1275",
+        "addr:postcode": "N20 9HS",
+        "addr:street": "High Road",
+        "amenity": "pharmacy",
+        "branch": "Whetstone 1261-1275 High Road",
+        "brand": "Boots",
+        "brand:wikidata": "Q6123139",
+        "brand:wikipedia": "en:Boots (company)",
+        "contact:phone": "+44 20 8343 8596",
+        "contact:website": "http://www.boots.com/stores/6509-whetstone-high-road-n20-9hs",
+        "dispensing": "yes",
+        "fhrs:id": "1617065",
+        "healthcare": "pharmacy",
+        "name": "Boots",
+        "operator": "Boots UK Limited",
+        "ref": "6509",
+        "shop": "chemist",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268545091,
+      "lat": 51.5266717,
+      "lon": 0.043107,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "4",
+        "addr:postcode": "E6 3JG",
+        "addr:street": "Henniker Gardens",
+        "fhrs:id": "1132110",
+        "name": "Wilton's Off Licence",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269146388,
+      "lat": 51.532339,
+      "lon": 0.0158201,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "196",
+        "addr:postcode": "E15 3HJ",
+        "addr:street": "Plaistow Road",
+        "fhrs:id": "849288",
+        "name": "Plaistow Express",
+        "shop": "convenience",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198265,
+      "lat": 51.3629891,
+      "lon": -0.1737178,
+      "tags": {
+        "name": "Croydon Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198268,
+      "lat": 51.3629833,
+      "lon": -0.1740438,
+      "tags": {
+        "name": "Hillside Motors",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198280,
+      "lat": 51.3630041,
+      "lon": -0.1728877,
+      "tags": {
+        "name": "Afforde Doors",
+        "shop": "doors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198291,
+      "lat": 51.3570637,
+      "lon": -0.1706537,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "3",
+        "addr:street": "Beeches Avenue",
+        "name": "Goodfellowes",
+        "shop": "estate_agent",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198293,
+      "lat": 51.3570193,
+      "lon": -0.1706671,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "5",
+        "addr:street": "Beeches Avenue",
+        "name": "Beni's Barbers",
+        "shop": "hairdresser",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198294,
+      "lat": 51.3571738,
+      "lon": -0.1710306,
+      "tags": {
+        "name": "Barn Garage",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269236121,
+      "lat": 51.5553406,
+      "lon": -0.0051613,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "164",
+        "addr:postcode": "E15 2BX",
+        "addr:street": "High Road Leyton",
+        "addr:suburb": "Stratford",
+        "check_date": "2025-12-14",
+        "fhrs:id": "577602",
+        "fhrs:local_authority_id": "11217",
+        "level": "0",
+        "name": "Food City",
+        "old_name": "Goodall Chemist",
+        "shop": "convenience",
+        "source:addr:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269346635,
+      "lat": 51.5983449,
+      "lon": 0.1579586,
+      "tags": {
+        "brand": "Ducati",
+        "name": "Hyside",
+        "shop": "motorcycle",
+        "url": "http://www.hysidemotorcycles.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270175655,
+      "lat": 51.3255024,
+      "lon": -0.2331413,
+      "tags": {
+        "addr:housenumber": "203",
+        "addr:postcode": "KT17 3LB",
+        "addr:street": "Fir Tree Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "contact:website": "https://www.tesco.com/store-locator/surrey/203-fir-tree-road",
+        "fhrs:id": "1438981",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272079218,
+      "lat": 51.4912721,
+      "lon": -0.1375414,
+      "tags": {
+        "brand": "Nisa Local",
+        "brand:wikidata": "Q16999069",
+        "name": "Nisa Local",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272082978,
+      "lat": 51.4925721,
+      "lon": -0.138266,
+      "tags": {
+        "name": "The Optical Studio",
+        "shop": "optician",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 275402055,
+      "lat": 51.4895905,
+      "lon": -0.1347848,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "101",
+        "addr:postcode": "SW1V 2QA",
+        "addr:street": "Tachbrook Street",
+        "fhrs:confidence_management": "10",
+        "fhrs:hygiene": "10",
+        "fhrs:id": "414322",
+        "fhrs:local_authority_id": "01601/0101/0/000",
+        "fhrs:rating": "3",
+        "fhrs:structural": "5",
+        "name": "Tachbrook Bakery & Patisserie",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa 08:00-16:00",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:contactless": "yes",
+        "shop": "bakery",
+        "source:addr": "FSA Food Hygiene Ratings Database",
+        "source:postcode": "FSA Food Hygiene Ratings Database"
+      }
+    },
+    {
+      "type": "node",
+      "id": 275727982,
+      "lat": 51.4949701,
+      "lon": -0.1429797,
+      "tags": {
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/london-victoria-east-simply-food-7579",
+        "name": "M&S Simply Food",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-21:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 276074178,
+      "lat": 51.497613,
+      "lon": -0.1410069,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "10",
+        "addr:postcode": "SW1E 5JE",
+        "addr:street": "Cardinal Walk",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "fhrs:confidence_management": "5",
+        "fhrs:hygiene": "0",
+        "fhrs:id": "414622",
+        "fhrs:local_authority_id": "06/00109/COMM",
+        "fhrs:rating": "5",
+        "fhrs:structural": "5",
+        "level": "0",
+        "name": "Marks & Spencer",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 11:00-17:00",
+        "shop": "department_store",
+        "source:addr": "FSA Food Hygiene Ratings Database",
+        "source:postcode": "FSA Food Hygiene Ratings Database",
+        "toilets": "no",
+        "website": "https://www.marksandspencer.com/stores/london-victoria-cardinal-place-3858"
+      }
+    },
+    {
+      "type": "node",
+      "id": 276091364,
+      "lat": 51.5145118,
+      "lon": -0.2585632,
+      "tags": {
+        "name": "Strawberry Local",
+        "off_license": "yes",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 276377474,
+      "lat": 51.5532184,
+      "lon": -0.1230767,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "392",
+        "addr:postcode": "N7 0SJ",
+        "addr:street": "Camden Road",
+        "description": "Castle Bar pub, converted to an apart hotel. Closed as of May 2025.",
+        "disused:amenity": "pub",
+        "name": "Former Castle Bar",
+        "old_name": "M'Nuchah - A Resting Place",
+        "shop": "vacant"
+      }
+    }
+  ]
+}

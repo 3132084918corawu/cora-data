@@ -1,0 +1,40 @@
+{
+  "kmeans_silhouette": 0.634969461902612,
+  "gmm_silhouette": 0.4937576748226022,
+  "kmeans_gmm_cluster_ari": 0.5809808053140438,
+  "random_forest_report": {
+    "commercial stressful": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 55.0
+    },
+    "park relaxed": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 70.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 125.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 125.0
+    }
+  },
+  "feature_columns": [
+    "value1",
+    "value2",
+    "tfidf_x",
+    "tfidf_y",
+    "hash_x",
+    "hash_y"
+  ]
+}

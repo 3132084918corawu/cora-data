@@ -1,0 +1,37 @@
+{
+  "project": "Emotion City Map",
+  "datasets_used": {
+    "pinterest_park_images": 200,
+    "pinterest_business_images": 200,
+    "openstreetmap_poi": 500,
+    "google_maps_reviews": "collector prepared; requires GOOGLE_MAPS_API_KEY to collect 200-300 real reviews"
+  },
+  "vectorisation_comparison": {
+    "text": "TF-IDF+SVD compared with HashingVectorizer+SVD on OSM POI text/tags.",
+    "image": "Colour statistics/histograms compared with colour+texture edge features.",
+    "tfidf_silhouette": 0.2349373225308171,
+    "hashing_silhouette": 0.10949493111554154,
+    "tfidf_hashing_cluster_ari": 0.48973159478725725,
+    "tfidf_explained_variance_2d": 0.19362554387968064,
+    "hashing_explained_variance_2d": 0.12362949258078682,
+    "valid_images": 387,
+    "colour_silhouette": 0.3058076005062685,
+    "texture_silhouette": 0.25138734195458895,
+    "colour_texture_cluster_ari": 0.8221465979191749,
+    "image_pca_explained_variance_2d": 0.3330602604499101
+  },
+  "machine_learning_comparison": {
+    "model_1": "KMeans clustering",
+    "model_2": "Gaussian Mixture clustering",
+    "classifier_check": "RandomForest predicts emotional category from vector/parameter features.",
+    "kmeans_silhouette": 0.634969461902612,
+    "gmm_silhouette": 0.4937576748226022,
+    "kmeans_gmm_cluster_ari": 0.5809808053140438
+  },
+  "design_outputs": {
+    "fragment_count": 32,
+    "fragment_parameters_csv": "E:\\11.python work\\cora-data\\workflow\\05_design_tool_integration\\fragment_parameters\\emotion_city_fragments_32.csv",
+    "primary_3d_environment": "Cinema 4D",
+    "secondary_environment": "Processing"
+  }
+}

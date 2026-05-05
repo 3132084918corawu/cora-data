@@ -1,0 +1,10 @@
+.env
+**/.env
+__pycache__/
+**/__pycache__/
+*.pyc
+*.blend1
+*.blend2
+*.mp4
+workflow/01_data_collection/dataset3_google_maps_reviews/outputs/raw/
+workflow/01_data_collection/dataset5_api_synthetic_emotion_text/outputs/

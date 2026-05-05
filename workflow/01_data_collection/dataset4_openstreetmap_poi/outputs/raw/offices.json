@@ -1,0 +1,1336 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-03T14:24:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 166889543,
+      "lat": 51.5031972,
+      "lon": -0.1011882,
+      "tags": {
+        "name": "FreeNow Driver Office",
+        "office": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 169359416,
+      "lat": 51.4992223,
+      "lon": -0.1378841,
+      "tags": {
+        "country": "MK",
+        "diplomatic": "embassy",
+        "embassy": "yes",
+        "name": "Embassy of the Republic of North Macedonia",
+        "name:fr": "Ambassade de Macédoine",
+        "office": "diplomatic",
+        "short_name": "Embassy of North Macedonia",
+        "target": "GB",
+        "wikidata": "Q16836829"
+      }
+    },
+    {
+      "type": "node",
+      "id": 169461881,
+      "lat": 51.4995081,
+      "lon": -0.1400273,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "20",
+        "addr:street": "Buckingham Gate",
+        "country": "SZ",
+        "diplomatic": "embassy",
+        "embassy": "high_commission",
+        "heritage": "2",
+        "heritage:operator": "Historic England",
+        "listed_status": "Grade II",
+        "name": "High Commission of Eswatini",
+        "name:fr": "Ambassade du Swaziland",
+        "office": "diplomatic",
+        "ref:GB:nhle": "1066361",
+        "target": "GB",
+        "wikidata": "Q16843065",
+        "wikipedia": "en:High Commission of Eswatini, London"
+      }
+    },
+    {
+      "type": "node",
+      "id": 244428669,
+      "lat": 51.4711702,
+      "lon": -0.0132502,
+      "tags": {
+        "address": "1 Vardon House, Sparta Street, London",
+        "name": "Heathside Estate Office",
+        "office": "yes",
+        "postal_code": "SE10 8DT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255012047,
+      "lat": 51.5780839,
+      "lon": -0.1238731,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1",
+        "addr:postcode": "N8 8DH",
+        "addr:street": "Crouch End Hill",
+        "fax": "+44 20 8347 2481",
+        "name": "Streathers Solicitors",
+        "office": "lawyer",
+        "old_name": "NatWest",
+        "phone": "+44 20 8347 2480",
+        "website": "https://www.streathers.co.uk/site/contact/solicitors-in-crouch-end/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 261700017,
+      "lat": 51.4752008,
+      "lon": -0.1191111,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "SW9 0PU",
+        "addr:street": "Clapham Road",
+        "check_date": "2023-09-04",
+        "name": "Job center",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266748378,
+      "lat": 51.3688729,
+      "lon": -0.2236965,
+      "tags": {
+        "name": "citizens_advice_bureaux",
+        "office": "ngo",
+        "source": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198298,
+      "lat": 51.3567455,
+      "lon": -0.1707127,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "11",
+        "addr:postcode": "SM5 3LB",
+        "addr:street": "Beeches Avenue",
+        "amenity": "accountants",
+        "name": "Davis, Burton, Williams & Co.",
+        "office": "accountant",
+        "source": "survey",
+        "survey:date": "2018-09-29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198300,
+      "lat": 51.3566944,
+      "lon": -0.1707261,
+      "tags": {
+        "addr:city": "Carshalton",
+        "addr:housenumber": "13",
+        "addr:postcode": "SM5 3LB",
+        "addr:street": "Beeches Avenue",
+        "name": "Goodfellows Estate Agents",
+        "office": "estate_agent",
+        "operator": "Goodfellows",
+        "source": "survey;local knowledge",
+        "survey:date": "2021-03-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 273535349,
+      "lat": 51.499293,
+      "lon": -0.0532252,
+      "tags": {
+        "name": "Properteers Group",
+        "office": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 276487550,
+      "lat": 51.5012647,
+      "lon": -0.2329913,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "168",
+        "addr:street": "Goldhawk Road",
+        "amenity:disused": "laundry",
+        "name": "Daniel Paul",
+        "office": "estate_agent",
+        "phone": "+44 20 8743 5254",
+        "website": "https://www.danielpaul.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 280380052,
+      "lat": 51.4629601,
+      "lon": -0.3026095,
+      "tags": {
+        "level": "0",
+        "name": "Arrivo",
+        "office": "coworking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292903048,
+      "lat": 51.509987,
+      "lon": -0.1558853,
+      "tags": {
+        "brand": "Foxtons",
+        "brand:wikidata": "Q5477251",
+        "brand:wikipedia": "en:Foxtons",
+        "name": "Foxtons",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302397668,
+      "lat": 51.4927047,
+      "lon": -0.1773582,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "80",
+        "addr:postcode": "SW7 3LQ",
+        "addr:street": "Old Brompton Road",
+        "check_date": "2024-09-09",
+        "female": "yes",
+        "level": "0",
+        "name": "Winchester White",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302432873,
+      "lat": 51.4135936,
+      "lon": -0.0517197,
+      "tags": {
+        "addr:city": "London",
+        "addr:floor": "G",
+        "addr:housenumber": "10",
+        "addr:postcode": "SE20 7TN",
+        "addr:street": "High Street",
+        "check_date": "2025-11-19",
+        "contact:facebook": "pages/Property-World/116469568507712",
+        "contact:instagram": "propertyworldlondon",
+        "level": "0",
+        "name": "Property World",
+        "office": "estate_agent",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 20 8659 1005",
+        "website": "https://www.propertyworlduk.net/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304994967,
+      "lat": 51.5079361,
+      "lon": -0.1079482,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "26",
+        "addr:postcode": "SE1 9PD",
+        "addr:street": "Upper Ground",
+        "addr:unit": "26-30",
+        "consulting": "transport",
+        "name": "Steer Davies Gleave",
+        "office": "consulting"
+      }
+    },
+    {
+      "type": "node",
+      "id": 322270280,
+      "lat": 51.5709821,
+      "lon": -0.339038,
+      "tags": {
+        "addr:city": "Harrow",
+        "addr:housenumber": "21",
+        "addr:postcode": "HA1 3HT",
+        "addr:street": "High Street",
+        "name": "Faiz & Co Acountants",
+        "office": "accountant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 322270358,
+      "lat": 51.5703327,
+      "lon": -0.3400267,
+      "tags": {
+        "addr:city": "Harrow",
+        "addr:country": "GB",
+        "addr:housenumber": "90",
+        "addr:postcode": "HA1 3LP",
+        "addr:street": "High Street",
+        "name": "Woodward Estate Agents",
+        "office": "estate_agent",
+        "phone": "+44 20 8864 8844",
+        "website": "https://www.woodward.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331880920,
+      "lat": 51.5458475,
+      "lon": -0.1034281,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "N1 1RE",
+        "building": "public",
+        "name": "Upper Street Area Housing Office",
+        "office": "government"
+      }
+    },
+    {
+      "type": "node",
+      "id": 341127995,
+      "lat": 51.4909232,
+      "lon": -0.1822699,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "144",
+        "addr:street": "Old Brompton Road",
+        "brand": "Dexters",
+        "brand:wikidata": "Q113950230",
+        "name": "Dexters",
+        "office": "estate_agent",
+        "website": "https://www.dexters.co.uk/contact-us/our-offices/dexters-south-kensington-estate-agents"
+      }
+    },
+    {
+      "type": "node",
+      "id": 348116256,
+      "lat": 51.5481614,
+      "lon": -0.1067937,
+      "tags": {
+        "addr:city": "London",
+        "addr:street": "Holloway Road",
+        "name": "Ginger Lettings",
+        "office": "estate_agent",
+        "phone": "+44 20 7199 8290"
+      }
+    },
+    {
+      "type": "node",
+      "id": 352673234,
+      "lat": 51.5089447,
+      "lon": -0.1390038,
+      "tags": {
+        "amenity": "learned_society;library",
+        "name": "Royal Society of Chemistry",
+        "office": "association",
+        "source": "local_knowledge",
+        "wikidata": "Q905549"
+      }
+    },
+    {
+      "type": "node",
+      "id": 352673237,
+      "lat": 51.5084826,
+      "lon": -0.1392585,
+      "tags": {
+        "amenity": "learned_society;library",
+        "name": "Linnean Society",
+        "office": "association",
+        "source": "local_knowledge",
+        "wikidata": "Q867447"
+      }
+    },
+    {
+      "type": "node",
+      "id": 352673650,
+      "lat": 51.5086375,
+      "lon": -0.1387827,
+      "tags": {
+        "amenity": "learned_society;library",
+        "name": "Geological Society",
+        "office": "association",
+        "source": "local_knowledge",
+        "wikidata": "Q1230936"
+      }
+    },
+    {
+      "type": "node",
+      "id": 352673677,
+      "lat": 51.5087628,
+      "lon": -0.1396235,
+      "tags": {
+        "amenity": "learned_society;library",
+        "name": "Society of Antiquaries",
+        "office": "association",
+        "source": "local_knowledge",
+        "website": "https://www.sal.org.uk/",
+        "wikidata": "Q5417893"
+      }
+    },
+    {
+      "type": "node",
+      "id": 352673909,
+      "lat": 51.5085854,
+      "lon": -0.1394593,
+      "tags": {
+        "amenity": "learned_society",
+        "association": "astronomy",
+        "fixme": "not in precise location",
+        "name": "Royal Astronomical Society",
+        "office": "association",
+        "source": "local_knowledge",
+        "wikidata": "Q753299",
+        "wikipedia": "en:Royal Astronomical Society"
+      }
+    },
+    {
+      "type": "node",
+      "id": 354626600,
+      "lat": 51.5431821,
+      "lon": -0.1052821,
+      "tags": {
+        "name": "Lost & Found",
+        "office": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356459052,
+      "lat": 51.5028892,
+      "lon": -0.0260163,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "2",
+        "addr:postcode": "E14 8JT",
+        "addr:street": "Westferry Road",
+        "email": "canarywharf@alexneil.com",
+        "name": "Alex Neil Estate Agents",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Fr 09:30-18:00; Sa 10:00-14:00",
+        "phone": "+44 20 7537 9859",
+        "website": "https://www.alexneil.com/canary-wharf-and-docklands"
+      }
+    },
+    {
+      "type": "node",
+      "id": 357659306,
+      "lat": 51.5423655,
+      "lon": -0.1032109,
+      "tags": {
+        "lawyer": "solicitor",
+        "name": "Gehlbergs",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 364548400,
+      "lat": 51.5462406,
+      "lon": -0.1022866,
+      "tags": {
+        "name": "London Move",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368002358,
+      "lat": 51.5208799,
+      "lon": -0.0801157,
+      "tags": {
+        "name": "Hill Dickinson",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 369829172,
+      "lat": 51.5434205,
+      "lon": -0.1176689,
+      "tags": {
+        "name": "Allen Robyn & Associates",
+        "office": "accountant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 369864922,
+      "lat": 51.5627717,
+      "lon": -0.0732998,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "212",
+        "addr:postcode": "N16 7HU",
+        "addr:street": "Stoke Newington High Street",
+        "name": "Next Location",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 369983232,
+      "lat": 51.5576262,
+      "lon": -0.0741886,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "14",
+        "addr:postcode": "N16 7PL",
+        "addr:street": "Stoke Newington High Street",
+        "lawyer": "solicitor",
+        "name": "Ernst & Co. Solicitors",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 369983276,
+      "lat": 51.557376,
+      "lon": -0.0742356,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "4",
+        "addr:postcode": "N16 7PL",
+        "addr:street": "Stoke Newington High Street",
+        "name": "Locus",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 371761555,
+      "lat": 51.3629051,
+      "lon": -0.1841715,
+      "tags": {
+        "amenity": "solicitor",
+        "name": "Robinson & Kinrade",
+        "office": "solicitor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 374237832,
+      "lat": 51.5622437,
+      "lon": -0.0759369,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "50",
+        "addr:postcode": "N16 0NB",
+        "addr:street": "Stoke Newington Church Street",
+        "lawyer": "solicitor",
+        "name": "Barnes & Partners Solicitors",
+        "office": "lawyer",
+        "source:postcode": "interpolation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 379905682,
+      "lat": 51.5154686,
+      "lon": -0.082075,
+      "tags": {
+        "check_date": "2023-11-18",
+        "name": "St Ethelburga’s Centre for Reconciliation and Peace",
+        "office": "ngo",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 393464355,
+      "lat": 51.5685949,
+      "lon": -0.1109778,
+      "tags": {
+        "addr:city": "London",
+        "brand": "Dexters",
+        "brand:wikidata": "Q113950230",
+        "contact:phone": "+44 20 7263 0924",
+        "level": "0",
+        "name": "Dexters",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 401529130,
+      "lat": 51.5123653,
+      "lon": -0.1284212,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "14",
+        "addr:postcode": "WC2H 0HR",
+        "addr:street": "Charing Cross Road",
+        "fhrs:confidence_management": "10",
+        "fhrs:hygiene": "0",
+        "fhrs:id": "412008",
+        "fhrs:local_authority_id": "00626/0014/0/000",
+        "fhrs:rating": "4",
+        "fhrs:structural": "0",
+        "name": "Everwell Chinese Medical Centre",
+        "office": "physician",
+        "source:addr": "FSA Food Hygiene Ratings Database",
+        "source:postcode": "FSA Food Hygiene Ratings Database"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411096511,
+      "lat": 51.5543155,
+      "lon": -0.212768,
+      "tags": {
+        "addr:housenumber": "81",
+        "lawyer": "solicitor",
+        "name": "Peter Horada & Co Solicitors",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 411115298,
+      "lat": 51.5530495,
+      "lon": -0.2112567,
+      "tags": {
+        "addr:street": "Cricklewood Broadway",
+        "name": "Neil O'sullivan & Associates",
+        "office": "accountant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418210035,
+      "lat": 51.4608555,
+      "lon": -0.2168799,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "175",
+        "addr:street": "Putney High Street",
+        "brand": "Foxtons",
+        "brand:wikidata": "Q5477251",
+        "brand:wikipedia": "en:Foxtons",
+        "name": "Foxtons",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418214967,
+      "lat": 51.4609973,
+      "lon": -0.2168123,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "167",
+        "addr:street": "Putney High Street",
+        "brand": "Stirling Ackroyd",
+        "brand:wikidata": "Q81062228",
+        "name": "Stirling Ackroyd",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420729588,
+      "lat": 51.4002941,
+      "lon": 0.0172857,
+      "tags": {
+        "check_date": "2023-09-17",
+        "level": "0",
+        "name": "Kinleigh Folkard & Hayward",
+        "office": "estate_agent",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420729597,
+      "lat": 51.4012337,
+      "lon": 0.0161364,
+      "tags": {
+        "addr:country": "GB",
+        "addr:housenumber": "46",
+        "addr:postcode": "BR1 1EG",
+        "addr:street": "High Street",
+        "check_date": "2024-06-14",
+        "level": "0",
+        "name": "MK Law Solicitors",
+        "office": "lawyer",
+        "shop": "comic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420752258,
+      "lat": 51.4064912,
+      "lon": 0.0125923,
+      "tags": {
+        "name": "McQueen's",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420752268,
+      "lat": 51.4067826,
+      "lon": 0.012156,
+      "tags": {
+        "name": "Frazer Bradshaw Solicitors",
+        "office": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420752297,
+      "lat": 51.4066196,
+      "lon": 0.0128742,
+      "tags": {
+        "brand": "Hunters",
+        "brand:wikidata": "Q110476092",
+        "name": "Hunters",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420752308,
+      "lat": 51.4060355,
+      "lon": 0.0138846,
+      "tags": {
+        "name": "Falconwood Employment",
+        "office": "employment_agency",
+        "shop": "employment_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420771840,
+      "lat": 51.4063861,
+      "lon": 0.0152874,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "West Street",
+        "brand": "Your Move",
+        "brand:wikidata": "Q81078416",
+        "check_date": "2023-09-17",
+        "level": "0",
+        "name": "Your Move",
+        "office": "estate_agent",
+        "website": "https://www.your-move.co.uk/estate-agent/bromley",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420771854,
+      "lat": 51.4068011,
+      "lon": 0.0157333,
+      "tags": {
+        "addr:city": "Bromley",
+        "addr:country": "GB",
+        "addr:housenumber": "21",
+        "addr:postcode": "BR1 1QE",
+        "addr:street": "East Street",
+        "check_date": "2023-09-17",
+        "contact:phone": "+44 20 3793 2937",
+        "contact:website": "https://www.karaman.co.uk",
+        "level": "0",
+        "name": "Karaman & Karaman",
+        "office": "accountant",
+        "source": "survey",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420771867,
+      "lat": 51.407473,
+      "lon": 0.0162768,
+      "tags": {
+        "addr:city": "Bromley",
+        "addr:country": "GB",
+        "addr:housenumber": "41",
+        "addr:postcode": "BR1 1QQ",
+        "addr:street": "East Street",
+        "business": "insurance",
+        "check_date": "2023-09-17",
+        "name": "Brownhill Insurance",
+        "office": "insurance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420771891,
+      "lat": 51.4066312,
+      "lon": 0.0159001,
+      "tags": {
+        "addr:city": "Bromley",
+        "addr:housenumber": "12",
+        "addr:postcode": "BR1 1QX",
+        "addr:street": "East Street",
+        "check_date": "2023-09-17",
+        "level": "0",
+        "name": "Truepennys",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:30-17:00; Su off",
+        "shop": "baby_goods",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420783200,
+      "lat": 51.4009052,
+      "lon": 0.0169666,
+      "tags": {
+        "check_date": "2023-09-17",
+        "level": "0",
+        "name": "Sinclair Hammelton",
+        "office": "estate_agent",
+        "shop": "vacant",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420792054,
+      "lat": 51.3998763,
+      "lon": 0.0167714,
+      "tags": {
+        "addr:city": "Bromley",
+        "addr:country": "GB",
+        "addr:housenumber": "4",
+        "addr:postcode": "BR1 1EA",
+        "addr:street": "High Street",
+        "check_date": "2023-09-17",
+        "contact:phone": "+44 20 8464 8566",
+        "level": "0",
+        "name": "Andrew Reeves",
+        "office": "estate_agent",
+        "website": "https://www.andrewreevescountrywide.co.uk/toletoffice/Bromley-Lettings/1493",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427574846,
+      "lat": 51.5347714,
+      "lon": -0.1182431,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Society Wharf",
+        "addr:housenumber": "8",
+        "addr:postcode": "N1 9RL",
+        "addr:street": "All Saints Street",
+        "name": "NCVO",
+        "office": "charity",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "phone": "+44 20 7520 2590",
+        "website": "https://www.ncvo.org.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443289143,
+      "lat": 51.4901526,
+      "lon": -0.1612452,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "36",
+        "addr:postcode": "SW3 4QS",
+        "addr:street": "Walpole Street",
+        "name": "Martin's Properties",
+        "office": "company",
+        "website": "https://martins-properties.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443414513,
+      "lat": 51.4896819,
+      "lon": -0.0963855,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "195",
+        "addr:postcode": "SE17 1RW",
+        "addr:street": "Walworth Road",
+        "name": "Kaim Todner solicitors",
+        "office": "solicitor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443418091,
+      "lat": 51.532343,
+      "lon": -0.0331182,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "503",
+        "addr:street": "Roman Road",
+        "contact:phone": "+44 20 8980 6666",
+        "contact:website": "http://acecarslondonltd.com/",
+        "level": "0",
+        "name": "Ace Cars London Ltd",
+        "office": "taxi",
+        "shop": "taxi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448446347,
+      "lat": 51.4448521,
+      "lon": 0.2169482,
+      "tags": {
+        "name": "Livermores",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448446348,
+      "lat": 51.4447401,
+      "lon": 0.2170293,
+      "tags": {
+        "name": "Clifton & Co",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448525823,
+      "lat": 51.4449303,
+      "lon": 0.2165469,
+      "tags": {
+        "name": "HRGO Recruitment",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 450211894,
+      "lat": 51.4904589,
+      "lon": -0.16721,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:street": "Cale Street",
+        "name": "Chesterons",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Th 08:40-19:00, Fr 08:40-18:00, Sa 10:00-16:00",
+        "phone": "+44 20 7594 4740",
+        "website": "https://www.chestertons.com/en-gb/network/central-london/chelsea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 450211902,
+      "lat": 51.4905107,
+      "lon": -0.1664773,
+      "tags": {
+        "check_date": "2024-11-25",
+        "name": "John D Wood & co",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Fr 08:45-18:00; Sa 09:30-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 456034775,
+      "lat": 51.4077319,
+      "lon": -0.0252436,
+      "tags": {
+        "addr:city": "Beckenham",
+        "addr:housenumber": "67",
+        "addr:postcode": "BR3 1AW",
+        "addr:street": "Manor Road",
+        "name": "Charles Eden",
+        "office": "estate_agent",
+        "phone": "+44 20 8663 3211",
+        "website": "https://charleseden.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 456065241,
+      "lat": 51.4078187,
+      "lon": -0.0256136,
+      "tags": {
+        "addr:city": "Beckenham",
+        "addr:country": "GB",
+        "addr:housenumber": "102-104",
+        "addr:postcode": "BR3 1EB",
+        "addr:street": "High Street",
+        "name": "Proctors",
+        "office": "estate_agent",
+        "phone": "+44 20 8650 2000",
+        "website": "https://www.proctors.london/default.aspx"
+      }
+    },
+    {
+      "type": "node",
+      "id": 456384029,
+      "lat": 51.4066291,
+      "lon": -0.0281072,
+      "tags": {
+        "addr:city": "Beckenham",
+        "addr:country": "GB",
+        "addr:housenumber": "145-147",
+        "addr:postcode": "BR3 1AG",
+        "addr:street": "High Street",
+        "brand": "Winkworth",
+        "brand:wikidata": "Q8025502",
+        "name": "Winkworth",
+        "office": "estate_agent",
+        "phone": "+44 208 650 1000",
+        "website": "https://www.winkworth.co.uk/estate-agents/beckenham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 460531080,
+      "lat": 51.598106,
+      "lon": -0.1109371,
+      "tags": {
+        "lawyer": "solicitor",
+        "name": "Levenes",
+        "office": "lawyer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 462025259,
+      "lat": 51.5104251,
+      "lon": -0.1520412,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "47",
+        "addr:street": "South Audley Street",
+        "name": "Chestertons",
+        "office": "estate_agent",
+        "website": "https://www.chestertons.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469390531,
+      "lat": 51.3615464,
+      "lon": -0.2613715,
+      "tags": {
+        "name": "Ewell Court Clinic",
+        "office": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471438027,
+      "lat": 51.4988035,
+      "lon": -0.0802046,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Newham's Row",
+        "alt_name": "IPPF",
+        "name": "International Planned Parenthood Federation",
+        "office": "ngo",
+        "url": "http://www.ippf.org/en/",
+        "website": "https://www.ippf.org/",
+        "wikidata": "Q181972",
+        "wikipedia": "en:International Planned Parenthood Federation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 475381367,
+      "lat": 51.515119,
+      "lon": -0.0727285,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "122",
+        "addr:postcode": "E1 7PT",
+        "addr:street": "Whitechapel High Street",
+        "name": "Chase Evans",
+        "office": "estate_agent",
+        "phone": "+44 20 7488 2777",
+        "website": "https://www.chaseevans.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 481643831,
+      "lat": 51.4771159,
+      "lon": -0.1000865,
+      "tags": {
+        "addr:housenumber": "253",
+        "addr:street": "Camberwell New Road",
+        "check_date": "2025-04-17",
+        "lawyer": "solicitor",
+        "name": "Samuel Ross",
+        "office": "lawyer",
+        "phone": "+44 20 7701 4664"
+      }
+    },
+    {
+      "type": "node",
+      "id": 490253779,
+      "lat": 51.4987413,
+      "lon": -0.1521557,
+      "tags": {
+        "name": "British-German Association",
+        "office": "ngo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 498694146,
+      "lat": 51.4846252,
+      "lon": -0.1757432,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "352a",
+        "addr:street": "King's Road",
+        "brand": "Knight Frank",
+        "brand:wikidata": "Q3197998",
+        "brand:wikipedia": "en:Knight Frank",
+        "name": "Knight Frank",
+        "office": "estate_agent",
+        "phone": "+44 20 3918 9495",
+        "website": "https://www.knightfrank.co.uk/contact/chelsea-estate-agents"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514769799,
+      "lat": 51.5146929,
+      "lon": -0.1621057,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "54",
+        "addr:street": "Edgware Road",
+        "name": "William James",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 536787926,
+      "lat": 51.649369,
+      "lon": 0.0023589,
+      "tags": {
+        "name": "The Scout Association National HQ",
+        "office": "charity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540747009,
+      "lat": 51.5013847,
+      "lon": -0.1911019,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Northcliffe House",
+        "addr:housenumber": "2",
+        "addr:postcode": "W8 5TT",
+        "addr:street": "Derry Street",
+        "name": "Evening Standard",
+        "office": "publisher",
+        "website": "https://www.standard.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 546677631,
+      "lat": 51.5298763,
+      "lon": -0.1106583,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "65",
+        "addr:postcode": "EC1R 1UR",
+        "addr:street": "Amwell Street",
+        "name": "Nathan K Real Estate",
+        "office": "estate_agent",
+        "phone": "+44 20 3411 1143",
+        "website": "https://www.nathankrealestate.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 560595567,
+      "lat": 51.4966378,
+      "lon": -0.09405,
+      "tags": {
+        "name": "Positive Assets",
+        "office": "accountant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 565436231,
+      "lat": 51.535679,
+      "lon": -0.1031276,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "36",
+        "addr:street": "Essex road",
+        "check_date": "2024-12-12",
+        "name": "Cluttons",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566803559,
+      "lat": 51.5380784,
+      "lon": -0.0992441,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "70",
+        "addr:street": "Essex road",
+        "check_date": "2024-09-12",
+        "name": "Ellis&co",
+        "office": "estate_agent",
+        "wikidata": "Q26544910"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571468543,
+      "lat": 51.5081816,
+      "lon": -0.1267882,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "South Africa House",
+        "addr:street": "Trafalgar Square",
+        "check_date": "2024-04-03",
+        "country": "ZA",
+        "diplomatic": "embassy",
+        "embassy": "high_commission",
+        "level": "0",
+        "name": "South African High Commission",
+        "name:de": "Südafrikanische Hochkommission",
+        "name:es": "Alta Comisión de Sudáfrica",
+        "name:fr": "Haut-commissariat d'Afrique du Sud",
+        "office": "diplomatic",
+        "postal_code": "WC2N 5DP",
+        "target": "GB",
+        "website": "http://www.southafricahouse.com",
+        "wheelchair": "yes",
+        "wikidata": "Q12060051"
+      }
+    },
+    {
+      "type": "node",
+      "id": 577179316,
+      "lat": 51.5200181,
+      "lon": -0.1452546,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "31",
+        "addr:street": "Portland Place",
+        "check_date": "2023-06-23",
+        "contact:website": "http://www.chinese-embassy.org.uk",
+        "country": "CN",
+        "diplomatic": "consulate",
+        "name": "Consular Section of the Embassy of the People's Republic of China",
+        "name:en": "Consular Section of the Embassy of the People's Republic of China",
+        "name:zh": "中华人民共和国大使馆领事部",
+        "office": "diplomatic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 577179328,
+      "lat": 51.520193,
+      "lon": -0.1453361,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "35",
+        "addr:street": "Portland Place",
+        "check_date": "2025-01-14",
+        "country": "CO",
+        "diplomatic": "consulate",
+        "name": "Colombian Consulate",
+        "name:en": "Colombian Consulate",
+        "name:zh": "哥伦比亚大使馆",
+        "office": "diplomatic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581961373,
+      "lat": 51.52241,
+      "lon": -0.1028152,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "33-35",
+        "addr:street": "St John's Square",
+        "name": "Portas",
+        "office": "advertising_agency",
+        "old_name": "Craft Central",
+        "website": "https://weareportas.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 583330044,
+      "lat": 51.4660667,
+      "lon": -0.2145947,
+      "tags": {
+        "name": "River Homes",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 588007728,
+      "lat": 51.5072499,
+      "lon": -0.1282648,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "58-59",
+        "addr:postcode": "WC2N 5DX",
+        "addr:street": "Trafalgar Square",
+        "check_date": "2026-01-07",
+        "country": "UG",
+        "diplomatic": "embassy",
+        "embassy": "high_commission",
+        "name": "Uganda High Commission",
+        "name:es": "Alta Comisión de Uganda",
+        "name:fr": "Haut-commissariat d'Ouganda",
+        "office": "diplomatic",
+        "target": "GB",
+        "website": "https://london.mofa.go.ug/",
+        "wheelchair": "no",
+        "wikidata": "Q7877675"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608592572,
+      "lat": 51.5682726,
+      "lon": 0.0090401,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "22",
+        "addr:postcode": "E11 1HG",
+        "addr:street": "Church Lane",
+        "addr:suburb": "Leytonstone",
+        "check_date": "2024-06-22",
+        "name": "Goldline Cars",
+        "office": "taxi",
+        "url": "https://www.goldlinecars.com/"
+      }
+    }
+  ]
+}

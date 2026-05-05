@@ -1,0 +1,5 @@
+file,category,emotion1,emotion2,value1,value2,path
+park_relaxed_01.txt,park relaxed,calm,open,0.2,0.1,E:\python work\cora-data\park relaxed\park1\park_relaxed_01.txt
+park_relaxed_02.txt,park relaxed,calm,open,0.2,0.1,E:\python work\cora-data\park relaxed\park2\park_relaxed_02.txt
+bussiness_stressful_01.txt,commercial stressful,stress,dense,0.9,0.8,E:\python work\cora-data\commercial stressful\bussiness1\bussiness_stressful_01.txt
+bussiness_stressful_02.txt,commercial stressful,stress,dense,0.9,0.8,E:\python work\cora-data\commercial stressful\bussiness2\bussiness_stressful_02.txt

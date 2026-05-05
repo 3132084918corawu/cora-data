@@ -1,0 +1,33 @@
+fragment_id,source_element_id,source_name,category,emotion,spatial_condition,kmeans_cluster,gmm_cluster,height,width,depth,spacing,distortion,movement_speed,rotation_speed,red,green,blue,scene_x,scene_y,scene_z,latitude,longitude
+fragment_01,node/443418091,Ace Cars London Ltd,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,40.997,0,8.155,51.532343,-0.0331182
+fragment_02,node/356459052,Alex Neil Estate Agents,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,38.618,0,15.996,51.5028892,-0.0260163
+fragment_03,node/369829172,Allen Robyn & Associates,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,34.755,0,23.223,51.5434205,-0.1176689
+fragment_04,node/420792054,Andrew Reeves,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,29.557,0,29.557,51.3998763,0.0167714
+fragment_05,node/280380052,Arrivo,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,23.223,0,34.755,51.4629601,-0.3026095
+fragment_06,node/374237832,Barnes & Partners Solicitors,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,15.996,0,38.618,51.5622437,-0.0759369
+fragment_07,node/420771867,Brownhill Insurance,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,8.155,0,40.997,51.407473,0.0162768
+fragment_08,node/456034775,Charles Eden,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,0.0,0,41.8,51.4077319,-0.0252436
+fragment_09,node/450211894,Chesterons,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-8.155,0,40.997,51.4904589,-0.16721
+fragment_10,node/462025259,Chestertons,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-15.996,0,38.618,51.5104251,-0.1520412
+fragment_11,node/448446348,Clifton & Co,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-23.223,0,34.755,51.4447401,0.2170293
+fragment_12,node/276487550,Daniel Paul,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-29.557,0,29.557,51.5012647,-0.2329913
+fragment_13,node/269198298,"Davis, Burton, Williams & Co.",commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-34.755,0,23.223,51.3567455,-0.1707127
+fragment_14,node/341127995,Dexters,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-38.618,0,15.996,51.4909232,-0.1822699
+fragment_15,node/393464355,Dexters,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-40.997,0,8.155,51.5685949,-0.1109778
+fragment_16,node/169359416,Embassy of the Republic of North Macedonia,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-41.8,0,0.0,51.4992223,-0.1378841
+fragment_17,node/369983232,Ernst & Co. Solicitors,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-40.997,0,-8.155,51.5576262,-0.0741886
+fragment_18,node/401529130,Everwell Chinese Medical Centre,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-38.618,0,-15.996,51.5123653,-0.1284212
+fragment_19,node/322270280,Faiz & Co Acountants,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-34.755,0,-23.223,51.5709821,-0.339038
+fragment_20,node/420752308,Falconwood Employment,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-29.557,0,-29.557,51.4060355,0.0138846
+fragment_21,node/292903048,Foxtons,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-23.223,0,-34.755,51.509987,-0.1558853
+fragment_22,node/418210035,Foxtons,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-15.996,0,-38.618,51.4608555,-0.2168799
+fragment_23,node/420752268,Frazer Bradshaw Solicitors,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-8.155,0,-40.997,51.4067826,0.012156
+fragment_24,node/166889543,FreeNow Driver Office,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,-0.0,0,-41.8,51.5031972,-0.1011882
+fragment_25,node/357659306,Gehlbergs,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,8.155,0,-40.997,51.5423655,-0.1032109
+fragment_26,node/352673650,Geological Society,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,15.996,0,-38.618,51.5086375,-0.1387827
+fragment_27,node/348116256,Ginger Lettings,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,23.223,0,-34.755,51.5481614,-0.1067937
+fragment_28,node/269198300,Goodfellows Estate Agents,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,29.557,0,-29.557,51.3566944,-0.1707261
+fragment_29,node/448525823,HRGO Recruitment,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,34.755,0,-23.223,51.4449303,0.2165469
+fragment_30,node/244428669,Heathside Estate Office,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,38.618,0,-15.996,51.4711702,-0.0132502
+fragment_31,node/169461881,High Commission of Eswatini,commercial stressful,stress,dense,0,1,28.2,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,40.997,0,-8.155,51.4995081,-0.1400273
+fragment_32,node/368002358,Hill Dickinson,commercial stressful,stress,dense,3,1,32.7,7.175,7.175,4.9,5.9,2.18,0.078,0.92,0.345,0.315,41.8,0,-0.0,51.5208799,-0.0801157

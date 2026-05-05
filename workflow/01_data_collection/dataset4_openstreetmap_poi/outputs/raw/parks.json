@@ -1,0 +1,1809 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-03T14:23:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 448625827,
+      "lat": 51.4577079,
+      "lon": 0.2308678,
+      "tags": {
+        "leisure": "park",
+        "name": "Enchanted Woodland - Community Woodland",
+        "note": "Owned by the Temple Hill Trust the woodland is open all year round for the community to enjoy this green leisure space - Dartford's only openly accessible woodland.  Entrances in Cornwall Road (cobbled path and football pitch) and Marsh Street.",
+        "operator": "Royal Mail",
+        "ref": "DA1 365",
+        "source": "Debbie Fryer, C.E.O. of the Temple Hill Trust",
+        "website": "www.templehilltrust.org.uk",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 947601398,
+      "lat": 51.5972099,
+      "lon": 0.3212757,
+      "tags": {
+        "leisure": "park",
+        "name": "Thorndon Country Park North"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1694552975,
+      "lat": 51.6293631,
+      "lon": 0.268842,
+      "tags": {
+        "leisure": "park",
+        "name": "Weald Country Park",
+        "source": "OS_OpenData_StreetView",
+        "wikidata": "Q2553223"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7149157916,
+      "lat": 51.590326,
+      "lon": 0.3393407,
+      "tags": {
+        "leisure": "park",
+        "name": "The Old Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7498940369,
+      "lat": 51.3169345,
+      "lon": -0.2258778,
+      "tags": {
+        "leisure": "park",
+        "name": "Nork Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7833610822,
+      "lat": 51.6245826,
+      "lon": 0.289221,
+      "tags": {
+        "leisure": "park",
+        "name": "Costead Manor Road Rope Swing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8954753262,
+      "lat": 51.4424214,
+      "lon": 0.1092937,
+      "tags": {
+        "addr:city": "Sidcup",
+        "addr:postcode": "DA15 9BN",
+        "addr:street": "Burnt Oak Lane",
+        "leisure": "park",
+        "name": "Burnt Oak Lane Open Space"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11563926902,
+      "lat": 51.5993898,
+      "lon": 0.3194999,
+      "tags": {
+        "addr:city": "brentwood",
+        "addr:housename": "Trailnet CIC",
+        "addr:postcode": "CM13 3RZ",
+        "addr:street": "The Avenue",
+        "description": "Thorndon Cycle Centre",
+        "leisure": "park",
+        "name": "Trailnet CIC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11753048107,
+      "lat": 51.475998,
+      "lon": -0.0563023,
+      "tags": {
+        "leisure": "park",
+        "name": "Laburnum Close Green"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151808712,
+      "lat": 51.679621,
+      "lon": -0.407655,
+      "tags": {
+        "addr:city": "Watford",
+        "addr:country": "GB",
+        "addr:postcode": "WD24 6QT",
+        "addr:street": "1 Woodside, Watford",
+        "leisure": "park",
+        "name": "Harebreaks Recreation Ground",
+        "operator": "Watford.gov.uk",
+        "operator:type": "public",
+        "phone": "+44 20 3567 6900"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151828181,
+      "lat": 51.6605965,
+      "lon": -0.41949,
+      "tags": {
+        "addr:city": "Watford",
+        "addr:country": "GB",
+        "addr:postcode": "WD18 7LG",
+        "addr:street": "Central Avenue",
+        "leisure": "park",
+        "name": "Cassiobury Park",
+        "opening_hours": "24/7",
+        "operator": "Watford borough council",
+        "phone": "+44 1923 226400",
+        "website": "https://www.watford.gov.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151832583,
+      "lat": 51.6792955,
+      "lon": -0.3824033,
+      "tags": {
+        "addr:city": "Watford",
+        "addr:country": "GB",
+        "addr:postcode": "WD25 9ET",
+        "addr:street": "Garsmouth Way",
+        "leisure": "park",
+        "name": "Meriden Park",
+        "opening_hours": "24/7",
+        "phone": "+44 20 3567 6900"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151854833,
+      "lat": 51.6749362,
+      "lon": -0.4057765,
+      "tags": {
+        "addr:city": "Watford",
+        "addr:country": "GB",
+        "addr:postcode": "WD24 5HY",
+        "addr:street": "140 Gammons Lane",
+        "leisure": "park",
+        "name": "Callowland Recreation Ground",
+        "opening_hours": "24/7",
+        "operator": "watford.gov.uk",
+        "operator:type": "public",
+        "phone": "+44 20 3567 6900"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151896934,
+      "lat": 51.6918144,
+      "lon": -0.3799805,
+      "tags": {
+        "addr:city": "Watford",
+        "addr:country": "GB",
+        "addr:postcode": "WD25 9RL",
+        "addr:street": "72 Coates Dell",
+        "leisure": "park",
+        "name": "Garston Park",
+        "opening_hours": "24/7",
+        "operator": "watford.gov.uk",
+        "operator:type": "public",
+        "phone": "+44 1923 226400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151958263,
+      "lat": 51.6758711,
+      "lon": -0.4157621,
+      "tags": {
+        "addr:city": "Watford",
+        "addr:country": "GB",
+        "addr:postcode": "WD17 4SL",
+        "addr:street": "Nascot Wood Road",
+        "leisure": "park",
+        "name": "Cheslyn House & Gardens",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "operator": "watford.gov.uk",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13276415126,
+      "lat": 51.3451367,
+      "lon": -0.1976393,
+      "tags": {
+        "leisure": "park",
+        "name": "Belmont station park",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13515968101,
+      "lat": 51.5447432,
+      "lon": -0.3399898,
+      "tags": {
+        "leisure": "park",
+        "name": "Ealing Beaver Project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13526930459,
+      "lat": 51.5124098,
+      "lon": -0.0205752,
+      "tags": {
+        "dog": "leashed",
+        "leisure": "park",
+        "name": "Church Green",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "operator": "Catholic Church",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13760684102,
+      "lat": 51.6413961,
+      "lon": -0.0286664,
+      "tags": {
+        "check_date": "2026-04-25",
+        "check_date:opening_hours": "2026-04-25",
+        "leisure": "park",
+        "name": "Wharf Road Park",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2903368,
+      "center": {
+        "lat": 51.6625042,
+        "lon": -0.0860869
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "St Michael's Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2903398,
+      "center": {
+        "lat": 51.6488011,
+        "lon": -0.0681839
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Bush Hill Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2914274,
+      "center": {
+        "lat": 51.5974717,
+        "lon": -0.1935745
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Stephens House & Grounds",
+        "name:alt": "Avenue House Grounds",
+        "website": "http://www.stephenshouseandgardens.com/",
+        "wikidata": "Q4828201",
+        "wikipedia": "en:Avenue House Grounds"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2926821,
+      "center": {
+        "lat": 51.641184,
+        "lon": -0.120525
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Oakwood Park",
+        "opening_hours": "sunrise-sunset",
+        "wikidata": "Q42291400",
+        "wikipedia": "en:Oakwood Park, Enfield"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2939009,
+      "center": {
+        "lat": 51.6492686,
+        "lon": -0.0863456
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Enfield Town Park",
+        "wikidata": "Q5377327"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2939140,
+      "center": {
+        "lat": 51.6526132,
+        "lon": -0.1702798
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Victoria Recreation Ground",
+        "wikidata": "Q7926994",
+        "wikipedia": "en:Victoria Recreation Ground, New Barnet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2953350,
+      "center": {
+        "lat": 51.595642,
+        "lon": -0.2293067
+      },
+      "tags": {
+        "alt_name": "Sunny Hill Park",
+        "leisure": "park",
+        "name": "Sunnyhill Park",
+        "operator": "Barnet Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q4861611",
+        "wikidata": "Q7640693",
+        "wikipedia": "en:Sunny Hill Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2955990,
+      "center": {
+        "lat": 51.6268492,
+        "lon": -0.1826796
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Whetstone Stray"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2956125,
+      "center": {
+        "lat": 51.4344718,
+        "lon": -0.0063073
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "School Playing Fields"
+      }
+    },
+    {
+      "type": "way",
+      "id": 2956783,
+      "center": {
+        "lat": 51.453172,
+        "lon": -0.0131711
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Lewisham Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3241371,
+      "center": {
+        "lat": 51.5216943,
+        "lon": -0.126069
+      },
+      "tags": {
+        "GBV": "Active",
+        "barrier": "fence",
+        "leisure": "park",
+        "name": "Russell Square",
+        "name:ar": "ميدان راسل",
+        "name:en": "Russell Square",
+        "wikidata": "Q1346906",
+        "wikimedia_commons": "Category:Russell_Square_Gardens",
+        "wikipedia": "en:Russell Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3241840,
+      "center": {
+        "lat": 51.5250414,
+        "lon": -0.1290244
+      },
+      "tags": {
+        "access": "permissive",
+        "barrier": "fence",
+        "leisure": "park",
+        "name": "Tavistock Square",
+        "name:etymology:wikidata": "Q668262",
+        "opening_hours": "07:30-sunset",
+        "source": "Survey of 2014-10-05",
+        "wikidata": "Q1936696",
+        "wikipedia": "en:Tavistock Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3385169,
+      "center": {
+        "lat": 51.4507952,
+        "lon": -0.4112163
+      },
+      "tags": {
+        "dog": "leashed",
+        "leisure": "park",
+        "name": "Glebelands Playing Fields Park",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3400436,
+      "center": {
+        "lat": 51.6187503,
+        "lon": -0.1624713
+      },
+      "tags": {
+        "barrier": "fence",
+        "leisure": "park",
+        "name": "Friary Park",
+        "wikidata": "Q5503378",
+        "wikipedia": "en:Friary Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3401837,
+      "center": {
+        "lat": 51.4208537,
+        "lon": -0.3848662
+      },
+      "tags": {
+        "barbecue": "no",
+        "fire": "no",
+        "leisure": "park",
+        "litter": "no",
+        "moped": "no",
+        "name": "Hatherop Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3430579,
+      "center": {
+        "lat": 51.4209742,
+        "lon": -0.3676262
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Carlisle Park",
+        "wikidata": "Q5041398",
+        "wikipedia": "en:Carlisle Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3541791,
+      "center": {
+        "lat": 51.4069678,
+        "lon": -0.3432559
+      },
+      "tags": {
+        "designation": "open_space",
+        "leisure": "park",
+        "name": "Hampton Court Green",
+        "note": "Royal property operated by Historic Royal Palaces",
+        "source:designation": "http://www2.richmond.gov.uk/PlanData2/Planning_CASENO_Noindex.aspx?strCASENO=17/1404/ES191"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3664747,
+      "center": {
+        "lat": 51.6535011,
+        "lon": -0.0418347
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Durants Park",
+        "operator": "Enfield Council"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3690598,
+      "center": {
+        "lat": 51.4614513,
+        "lon": -0.236126
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "The Pleasance"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3725292,
+      "center": {
+        "lat": 51.6959141,
+        "lon": -0.173661
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Oakmere Park",
+        "wikimedia_commons": "Category:Oakmere Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3872808,
+      "center": {
+        "lat": 51.6186112,
+        "lon": -0.1175749
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Broomfield Park",
+        "wikidata": "Q15205137"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3986346,
+      "center": {
+        "lat": 51.5066483,
+        "lon": -0.1802014
+      },
+      "tags": {
+        "access": "yes",
+        "heritage": "2",
+        "heritage:operator": "Historic England",
+        "heritage:operator:wikidata": "Q19604421",
+        "heritage:website": "https://historicengland.org.uk/listing/the-list/list-entry/1000340",
+        "historic": "park",
+        "leisure": "park",
+        "listed_status": "Grade I",
+        "name": "Kensington Gardens",
+        "name:ar": "حدائق كنسينغتون",
+        "name:ru": "Кенсингтонские сады",
+        "name:uk": "Кенсінгтонські сади",
+        "operator": "The Royal Parks",
+        "operator:type": "public",
+        "operator:wikidata": "Q7761716",
+        "ref:GB:nhle": "1000340",
+        "website": "https://www.royalparks.org.uk/visit/parks/kensington-gardens",
+        "wikidata": "Q822607",
+        "wikipedia": "en:Kensington Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3988895,
+      "center": {
+        "lat": 51.5890338,
+        "lon": -0.2302829
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Grove Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3991615,
+      "center": {
+        "lat": 51.4014125,
+        "lon": -0.3238841
+      },
+      "tags": {
+        "alt_name": "Home Park",
+        "heritage": "2",
+        "heritage:operator": "Historic England",
+        "leisure": "park",
+        "listed_status": "Grade I",
+        "name": "Hampton Court Park",
+        "note": "scrubland, deer park",
+        "ref:GB:nhle": "1000108",
+        "wikidata": "Q2909007",
+        "wikipedia": "en:Hampton Court Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4001101,
+      "center": {
+        "lat": 51.5833997,
+        "lon": -0.1887685
+      },
+      "tags": {
+        "landuse": "forest",
+        "leaf_cycle": "deciduous",
+        "leisure": "park",
+        "name": "Big Wood",
+        "wikidata": "Q4906692"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4001293,
+      "center": {
+        "lat": 51.60081,
+        "lon": -0.1638564
+      },
+      "tags": {
+        "landuse": "cemetery",
+        "leisure": "park",
+        "name": "St Pancras and Islington Cemetery",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "website": "https://iccslondon.co.uk/the-sites/islington-and-st-pancras-cemetery/",
+        "wikidata": "Q7595047",
+        "wikipedia": "en:St Pancras and Islington Cemetery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4006015,
+      "center": {
+        "lat": 51.4671036,
+        "lon": -0.3067639
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Old Deer Park",
+        "wikidata": "Q7083838",
+        "wikipedia": "en:Old Deer Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4013452,
+      "center": {
+        "lat": 51.6135884,
+        "lon": -0.2307682
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Arrandene Open Space",
+        "source": "npe,landsat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4020542,
+      "center": {
+        "lat": 51.5546644,
+        "lon": -0.1977086
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Fortune Green",
+        "wikidata": "Q149847"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4020620,
+      "center": {
+        "lat": 51.5564354,
+        "lon": -0.3404459
+      },
+      "tags": {
+        "addr:city": "Greenford",
+        "addr:housename": "Grove Farm",
+        "addr:postcode": "UB6 0HX",
+        "addr:street": "Whittone avenue west",
+        "leisure": "park",
+        "name": "Grove Farm local nature reserve",
+        "opening_hours": "24/7",
+        "operator": "ealing Council",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4040566,
+      "center": {
+        "lat": 51.5811287,
+        "lon": -0.2216207
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Hendon Park",
+        "ref:GB:uprn": "200151568",
+        "source": "npe",
+        "wikidata": "Q5713573",
+        "wikipedia": "en:Hendon Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4040975,
+      "center": {
+        "lat": 51.5570285,
+        "lon": -0.3517082
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Wood End East Recreation Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4045176,
+      "center": {
+        "lat": 51.5578225,
+        "lon": -0.2352947
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Gladstone Park",
+        "wikidata": "Q5566342",
+        "wikipedia": "en:Gladstone Park, London"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4045840,
+      "center": {
+        "lat": 51.4310938,
+        "lon": -0.0244742
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Bellingham Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4045842,
+      "center": {
+        "lat": 51.4474451,
+        "lon": -0.0093265
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Mountsfield Park",
+        "operator": "London Borough of Lewisham",
+        "operator:type": "government",
+        "operator:wikidata": "Q6537320",
+        "start_date": "1905",
+        "wikidata": "Q15260097",
+        "wikipedia": "en:Mountsfield Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4049350,
+      "center": {
+        "lat": 51.5039608,
+        "lon": -0.3120585
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Lammas Park",
+        "note": "incomplete; slightly inaccurate, needs work",
+        "source": "johndrinkwater GPS data",
+        "wikidata": "Q97189986"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4070914,
+      "center": {
+        "lat": 51.702075,
+        "lon": -0.172285
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Morven Park",
+        "operator": "National Trust",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q333515",
+        "surface": "grass",
+        "website": "https://www.nationaltrust.org.uk/morven-park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4072806,
+      "center": {
+        "lat": 51.5361349,
+        "lon": -0.2107364
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Queens Park",
+        "operator": "Corporation of London",
+        "website": "https://www.cityoflondon.gov.uk/things-to-do/green-spaces/queens-park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4075108,
+      "center": {
+        "lat": 51.5170075,
+        "lon": -0.1144526
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Lincoln's Inn",
+        "wikidata": "Q69482",
+        "wikipedia": "en:Lincoln's Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4076730,
+      "center": {
+        "lat": 51.6195384,
+        "lon": -0.1544638
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Bethune Park",
+        "wikidata": "Q16987717"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4078566,
+      "center": {
+        "lat": 51.6155473,
+        "lon": -0.057401
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Craig Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4078567,
+      "center": {
+        "lat": 51.6176383,
+        "lon": -0.0697096
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Pymmes Park",
+        "wikidata": "Q7263115"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4081049,
+      "center": {
+        "lat": 51.5115067,
+        "lon": -0.1513923
+      },
+      "tags": {
+        "access": "yes",
+        "check_date": "2025-10-12",
+        "leisure": "park",
+        "name": "Grosvenor Square",
+        "note": "closed until summer 2026",
+        "opening_hours": "24/7 closed",
+        "operator": "The Royal Parks",
+        "operator:type": "public",
+        "operator:wikidata": "Q7761716",
+        "wikidata": "Q932992",
+        "wikipedia": "en:Grosvenor Square",
+        "wikipedia:es": "Plaza_Grosvenor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4082589,
+      "center": {
+        "lat": 51.5104369,
+        "lon": -0.1301305
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Leicester Square",
+        "name:etymology:wikidata": "Q26898080",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q848912",
+        "wikipedia": "en:Leicester Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4082666,
+      "center": {
+        "lat": 51.5390612,
+        "lon": -0.1616396
+      },
+      "tags": {
+        "access": "yes",
+        "leisure": "park",
+        "name": "Primrose Hill",
+        "operator": "The Royal Parks",
+        "operator:wikidata": "Q7761716",
+        "wikidata": "Q149942",
+        "wikipedia": "en:Primrose Hill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4085758,
+      "center": {
+        "lat": 51.3564904,
+        "lon": -0.1633537
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Stanley Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4086227,
+      "center": {
+        "lat": 51.3838349,
+        "lon": -0.4133411
+      },
+      "tags": {
+        "landuse": "recreation_ground",
+        "leisure": "park",
+        "name": "Elmgrove Recreation Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4089030,
+      "center": {
+        "lat": 51.5557913,
+        "lon": -0.2002153
+      },
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "NW6 1DR",
+        "addr:street": "Fortune Green Road",
+        "landuse": "cemetery",
+        "leisure": "park",
+        "name": "Hampstead Cemetery",
+        "website": "https://iccslondon.co.uk/the-sites/hampstead-cemetery/",
+        "wikidata": "Q5646110"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4090241,
+      "center": {
+        "lat": 51.5743807,
+        "lon": -0.3413452
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Church Fields"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4097473,
+      "center": {
+        "lat": 51.585126,
+        "lon": -0.1065121
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Fairland Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4097476,
+      "center": {
+        "lat": 51.5702554,
+        "lon": -0.1010473
+      },
+      "tags": {
+        "heritage": "2",
+        "heritage:operator": "Historic England",
+        "heritage:website": "https://historicengland.org.uk/listing/the-list/list-entry/1000804",
+        "historic": "yes",
+        "inscription_date": "1987-10-01",
+        "leisure": "park",
+        "listed_status": "Grade II",
+        "name": "Finsbury Park",
+        "operator": "London Borough of Haringey",
+        "operator:type": "government",
+        "operator:wikidata": "Q5657624",
+        "ref:GB:nhle": "1000804",
+        "website": "https://www.haringey.gov.uk/libraries-sport-and-leisure/parks-and-open-spaces/z-parks-and-open-spaces/finsbury-park",
+        "wikidata": "Q1453189",
+        "wikipedia": "en:Finsbury Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4111166,
+      "center": {
+        "lat": 51.4382637,
+        "lon": -0.2057571
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Wimbledon Park",
+        "website": "https://www.merton.gov.uk/environment/openspaces/parks/parks_in_the_wimbledon_area/wimbledon-park.htm",
+        "wikidata": "Q2920346",
+        "wikipedia": "en:Wimbledon Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4116247,
+      "center": {
+        "lat": 51.661208,
+        "lon": -0.1908128
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Monken Hadley Common",
+        "wikidata": "Q6900683"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4133074,
+      "center": {
+        "lat": 51.6587027,
+        "lon": -0.0750533
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Aldersbrook Avenue Recreation Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4188297,
+      "center": {
+        "lat": 51.6538517,
+        "lon": -0.158047
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Ludgrove Playing Field"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4234648,
+      "center": {
+        "lat": 51.5792895,
+        "lon": -0.1122109
+      },
+      "tags": {
+        "access": "yes",
+        "addr:city": "London",
+        "addr:postcode": "N8 9LP",
+        "addr:street": "Mayfield Road",
+        "leisure": "park",
+        "name": "Stationers Park",
+        "opening_hours": "24/7",
+        "operator": "Haringey Council",
+        "operator:type": "council",
+        "website": "https://new.haringey.gov.uk/leisure-parks-culture/parks-greenspaces/parks-facilities-haringey/stationers-park",
+        "wikidata": "Q7604352",
+        "wikipedia": "en:Stationers Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4239815,
+      "center": {
+        "lat": 51.4735096,
+        "lon": -0.1994916
+      },
+      "tags": {
+        "designation": "common",
+        "leisure": "park",
+        "name": "Parsons Green",
+        "source:designation": "defra_common_land_2015",
+        "wikidata": "Q15265537",
+        "wikipedia": "en:Parsons Green (The green)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4242918,
+      "center": {
+        "lat": 51.538513,
+        "lon": -0.2259807
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Chelmsford Square Tennis Courts & Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4242930,
+      "center": {
+        "lat": 51.5413237,
+        "lon": -0.2402052
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Roundwood Park",
+        "wikidata": "Q7371285"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4244828,
+      "center": {
+        "lat": 51.5102941,
+        "lon": -0.2283516
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Hammersmith Park",
+        "operator": "Hammersmith and Fulham London Borough Council",
+        "phone": "+44 20 8748 3020",
+        "website": "https://www.lbhf.gov.uk/sports-and-parks/parks-and-open-spaces/hammersmith-park",
+        "wikidata": "Q16246794",
+        "wikipedia": "en:Hammersmith Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4244829,
+      "center": {
+        "lat": 51.5042477,
+        "lon": -0.2219807
+      },
+      "tags": {
+        "designation": "common",
+        "leisure": "park",
+        "name": "Shepherds Bush Green",
+        "not:name": "Shepherd's Bush Green",
+        "source:designation": "defra_common_land_2015",
+        "wikidata": "Q7494447",
+        "wikipedia": "en:Shepherd's Bush Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4245003,
+      "center": {
+        "lat": 51.4901239,
+        "lon": -0.4167424
+      },
+      "tags": {
+        "addr:city": "Hounslow",
+        "addr:postcode": "TW5 9RZ",
+        "addr:street": "The Parkway",
+        "leisure": "park",
+        "name": "Cranford Country Park",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "operator": "Hillingdon Council",
+        "operator:type": "government",
+        "phone": "+441895556000",
+        "website": "https://www.hillingdon.gov.uk/article/2846/Cranford-Country-Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4248612,
+      "center": {
+        "lat": 51.570589,
+        "lon": -0.302724
+      },
+      "tags": {
+        "access": "yes",
+        "leisure": "park",
+        "name": "Preston Park",
+        "wikidata": "Q7241963"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4251186,
+      "center": {
+        "lat": 51.5090684,
+        "lon": -0.3097276
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Walpole Park",
+        "source": "yahoo",
+        "wikidata": "Q7963731",
+        "wikipedia": "en:Walpole Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4251190,
+      "center": {
+        "lat": 51.5101446,
+        "lon": -0.3203765
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Dean Gardens",
+        "source": "yahoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4252522,
+      "center": {
+        "lat": 51.4690524,
+        "lon": -0.2021224
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Hurlingham Park",
+        "website": "https://www.lbhf.gov.uk/Directory/Environment_and_Planning/Parks_and_open_spaces/Find_a_park/123512_Hurlingham_Park.asp",
+        "wikidata": "Q5946739",
+        "wikipedia": "en:Hurlingham Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4252532,
+      "center": {
+        "lat": 51.4690551,
+        "lon": -0.1942851
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "South Park",
+        "wikidata": "Q7568141",
+        "wikipedia": "en:South Park, Fulham"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253286,
+      "center": {
+        "lat": 51.5233255,
+        "lon": -0.1296417
+      },
+      "tags": {
+        "barrier": "fence",
+        "fence_type": "railing",
+        "leisure": "park",
+        "name": "Woburn Square",
+        "wikidata": "Q8028979",
+        "wikipedia": "en:Woburn Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253288,
+      "center": {
+        "lat": 51.524262,
+        "lon": -0.1308717
+      },
+      "tags": {
+        "barrier": "fence",
+        "fence_type": "railing",
+        "leisure": "park",
+        "name": "Gordon Square",
+        "name:etymology:wikidata": "Q55993365",
+        "wikidata": "Q5585854",
+        "wikipedia": "en:Gordon Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253353,
+      "center": {
+        "lat": 51.4719247,
+        "lon": -0.3317639
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "St. John's Gardens",
+        "source": "yahoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253527,
+      "center": {
+        "lat": 51.4951846,
+        "lon": -0.1055267
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "West Square Gardens",
+        "operator": "London Borough of Southwark",
+        "operator:type": "government",
+        "operator:wikidata": "Q730706",
+        "wikidata": "Q7986571",
+        "wikipedia": "en:West Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253646,
+      "center": {
+        "lat": 51.5217715,
+        "lon": -0.1224453
+      },
+      "tags": {
+        "GBV": "Active",
+        "barrier": "fence",
+        "leisure": "park",
+        "name": "Queen Square Gardens",
+        "smoking": "no",
+        "wikidata": "Q3414013",
+        "wikipedia": "en:Queen Square, London"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253657,
+      "center": {
+        "lat": 51.5191892,
+        "lon": -0.1188966
+      },
+      "tags": {
+        "barrier": "fence",
+        "leisure": "park",
+        "name": "Red Lion Square Gardens",
+        "name:en": "Red Lion Square Gardens",
+        "name:ko": "레드 라이언 광장",
+        "wikidata": "Q7304535",
+        "wikipedia": "en:Red Lion Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253887,
+      "center": {
+        "lat": 51.5096414,
+        "lon": -0.1458119
+      },
+      "tags": {
+        "access": "yes",
+        "addr:city": "London",
+        "barrier": "fence",
+        "heritage": "2",
+        "heritage:operator": "he",
+        "heritage:website": "https://historicengland.org.uk/listing/the-list/list-entry/1000516",
+        "leisure": "park",
+        "listed_status": "Grade II",
+        "name": "Berkeley Square",
+        "ref:GB:nhle": "1000516",
+        "wikidata": "Q127212",
+        "wikipedia": "en:Berkeley Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4254099,
+      "center": {
+        "lat": 51.5086161,
+        "lon": -0.1210405
+      },
+      "tags": {
+        "access": "yes",
+        "addr:city": "London",
+        "addr:street": "Victoria Embankment",
+        "leisure": "park",
+        "name": "Victoria Embankment Gardens",
+        "name:ar": "حدائق فيكتوريا إمبانكمينت",
+        "name:lt": "Viktorijos krantines sodai",
+        "opening_hours": "Jan 01-Feb 15 08:30-16:30,Feb 16-Feb 29 08:30-17:30,Mar 01-Mar Su[4] 08:30-18:00,Mar Mo[4]-Mar 31 08:30-19:30,Apr 01-Apr 15 08:30-20:00,Apr 16-Apr 30 08:30-20:30,May 01-May 15 08:30-21:00,Mar 16-Jul 31 08:30-21:30,Aug 01-Aug 15 08:30-21:00,Aug 16-Aug 31 0",
+        "operator": "City of Westminster",
+        "operator:type": "government",
+        "website": "https://www.westminster.gov.uk/parks-and-open-spaces/victoria-embankment-gardens",
+        "wheelchair": "limited",
+        "wheelchair:description": "level asphalt paths between lawns. Most statues and monuments are close to the path edge",
+        "wikidata": "Q7926695",
+        "wikimedia_commons": "Category:Victoria_Embankment_Gardens",
+        "wikipedia": "en:Victoria Embankment Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4255959,
+      "center": {
+        "lat": 51.4615555,
+        "lon": -0.0735443
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Goose Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256144,
+      "center": {
+        "lat": 51.5290446,
+        "lon": -0.122248
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Argyle Square Gardens",
+        "name:en": "Argyle Square Gardens",
+        "name:ja": "アーガイル・スクエア",
+        "operator": "Camden London Borough Council",
+        "wikidata": "Q96372341",
+        "wikimedia_commons": "Category:Argyle Square, London",
+        "wikipedia": "en:Argyle Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256229,
+      "center": {
+        "lat": 51.511655,
+        "lon": -0.1371829
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Golden Square",
+        "operator": "Westminster City Council",
+        "wikidata": "Q5579811",
+        "wikipedia": "en:Golden Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256264,
+      "center": {
+        "lat": 51.4874704,
+        "lon": -0.1207242
+      },
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "SE11 5HL",
+        "addr:street": "Tyers Street",
+        "alt_name": "Spring Gardens",
+        "leisure": "park",
+        "name": "Vauxhall Pleasure Gardens",
+        "note": "formerly named Spring Gardens",
+        "opening_hours": "24/7",
+        "operator": "Lambeth Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q6481450",
+        "website": "https://beta.lambeth.gov.uk/parks/vauxhall-pleasure-gardens",
+        "wikidata": "Q977947",
+        "wikipedia": "en:Vauxhall Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256950,
+      "center": {
+        "lat": 51.5056433,
+        "lon": -0.1233752
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Whitehall Garden",
+        "name:ar": "حديقة وايتهول",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256953,
+      "center": {
+        "lat": 51.5039218,
+        "lon": -0.1239099
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Whitehall Garden",
+        "wheelchair": "yes",
+        "wikidata": "Q18901051",
+        "wikipedia": "en:Privy Garden of the Palace of Whitehall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4257005,
+      "center": {
+        "lat": 51.4977368,
+        "lon": -0.1472135
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Grosvenor Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4257006,
+      "center": {
+        "lat": 51.4965639,
+        "lon": -0.1455517
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Grosvenor Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4257697,
+      "center": {
+        "lat": 51.5927133,
+        "lon": 0.1002983
+      },
+      "tags": {
+        "addr:city": "Ilford",
+        "addr:country": "GB",
+        "addr:postcode": "IG6 3HN",
+        "addr:suburb": "Fairlop",
+        "communication:amateur_radio:pota": "GB-0745",
+        "leisure": "park",
+        "name": "Fairlop Waters Country Park",
+        "wikidata": "Q115184182"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4258095,
+      "center": {
+        "lat": 51.4981134,
+        "lon": -0.1344937
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Christchurch Gardens",
+        "operator": "City of Westminster",
+        "wheelchair": "yes",
+        "wikidata": "Q59818439"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259619,
+      "center": {
+        "lat": 51.4985817,
+        "lon": -0.1290543
+      },
+      "tags": {
+        "historic": "yes",
+        "leisure": "park",
+        "name": "Dean's Yard",
+        "old_name": "The Elms",
+        "wikidata": "Q5245943",
+        "wikipedia": "en:Dean's Yard"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259627,
+      "center": {
+        "lat": 51.4980919,
+        "lon": -0.1261387
+      },
+      "tags": {
+        "alt_name": "Abingdon Street Gardens",
+        "leisure": "park",
+        "name": "College Green",
+        "note": "The world knows this as College Green but the council says it is Abington Street Gardens (with a t) - the street next door doesn't have a T.",
+        "official_name": "Abington Street Gardens",
+        "wikidata": "Q59756",
+        "wikipedia": "en:College Green, London"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259687,
+      "center": {
+        "lat": 51.4964596,
+        "lon": -0.1248658
+      },
+      "tags": {
+        "access": "yes",
+        "leisure": "park",
+        "name": "Victoria Tower Gardens",
+        "name:ar": "حدائق برج فيكتوريا",
+        "operator": "The Royal Parks",
+        "operator:type": "public",
+        "operator:wikidata": "Q7761716",
+        "website": "https://www.royalparks.org.uk/parks/victoria-tower-gardens",
+        "wikidata": "Q2485117",
+        "wikipedia": "en:Victoria Tower Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259726,
+      "center": {
+        "lat": 51.4943918,
+        "lon": -0.1280463
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "St John's Gardens",
+        "website": "https://myparks.westminster.gov.uk/parks/st-johns-gardens-horseferry-road/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259897,
+      "center": {
+        "lat": 51.489166,
+        "lon": -0.1279354
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Riverside Walk Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259902,
+      "center": {
+        "lat": 51.491457,
+        "lon": -0.1290838
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Millbank Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4259910,
+      "center": {
+        "lat": 51.4909438,
+        "lon": -0.131187
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Causton Street Playground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4260009,
+      "center": {
+        "lat": 51.4967922,
+        "lon": -0.1168946
+      },
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "SE1 7LE",
+        "addr:street": "Carlisle Lane",
+        "leisure": "park",
+        "name": "Archbishop's Park",
+        "opening_hours": "07:30 - dusk",
+        "operator": "Lambeth Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q6481450",
+        "website": "https://beta.lambeth.gov.uk/parks/archbishops-park",
+        "wikidata": "Q105561291"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4267353,
+      "center": {
+        "lat": 51.5692669,
+        "lon": -0.2148786
+      },
+      "tags": {
+        "alt_name": "Clitterhouse Recreation Ground",
+        "leisure": "park",
+        "name": "Clitterhouse Playing Fields",
+        "name:en": "Clitterhouse Playing Fields",
+        "ref:GB:uprn": "200158000",
+        "wikidata": "Q5134465",
+        "wikipedia": "en:Clitterhouse Recreation Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4268231,
+      "center": {
+        "lat": 51.5782969,
+        "lon": -0.3367967
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Lowlands Recreation Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4268233,
+      "center": {
+        "lat": 51.5770153,
+        "lon": -0.3368675
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "The Grove Open Space",
+        "operator": "London Borough of Harrow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4270104,
+      "center": {
+        "lat": 51.587722,
+        "lon": 0.0781061
+      },
+      "tags": {
+        "addr:city": "Ilford",
+        "addr:postcode": "IG6 2PE",
+        "addr:street": "Mossford Green",
+        "leisure": "park",
+        "name": "Barkingside Recreation Ground",
+        "operator": "Vision Redbridge Culture and Leisure",
+        "operator:type": "private_non_profit"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4271516,
+      "center": {
+        "lat": 51.5507899,
+        "lon": -0.3637463
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Mandeville Parkway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4272920,
+      "center": {
+        "lat": 51.5192383,
+        "lon": -0.1345606
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Crabtree Fields"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4274490,
+      "center": {
+        "lat": 51.5826446,
+        "lon": -0.0896714
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Chestnuts Park",
+        "wikidata": "Q5094022"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4280573,
+      "center": {
+        "lat": 51.6187453,
+        "lon": -0.0875883
+      },
+      "tags": {
+        "leisure": "park",
+        "name": "Tatem Park"
+      }
+    }
+  ]
+}

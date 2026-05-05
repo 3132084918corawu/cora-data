@@ -1,0 +1,1232 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-03T14:23:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 30442275,
+      "lat": 51.4784188,
+      "lon": -0.3007569,
+      "tags": {
+        "leisure": "garden",
+        "name": "Bamboo Garden",
+        "name:ru": "Бамбуковый сад"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207110707,
+      "lat": 51.4824569,
+      "lon": -0.289281,
+      "tags": {
+        "leisure": "garden",
+        "name": "Grass Garden",
+        "website": "https://www.kew.org/visit-kew-gardens/explore/attractions/grass-garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207110829,
+      "lat": 51.482585,
+      "lon": -0.2909716,
+      "tags": {
+        "leisure": "garden",
+        "name": "Secluded Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207111044,
+      "lat": 51.4810944,
+      "lon": -0.2892992,
+      "tags": {
+        "leisure": "garden",
+        "name": "Order Beds"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207111138,
+      "lat": 51.4828628,
+      "lon": -0.2890616,
+      "tags": {
+        "leisure": "garden",
+        "name": "The Duke's Garden",
+        "name:ru": "Герцогский сад"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207113336,
+      "lat": 51.484112,
+      "lon": -0.295268,
+      "tags": {
+        "leisure": "garden",
+        "name": "The Queen's Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207126970,
+      "lat": 51.4831029,
+      "lon": -0.2898185,
+      "tags": {
+        "access": "private",
+        "leisure": "garden",
+        "name": "The Director's Garden",
+        "name:ru": "Директорский сад"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207137399,
+      "lat": 51.4815485,
+      "lon": -0.2898856,
+      "tags": {
+        "leisure": "garden",
+        "name": "Rock Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207138240,
+      "lat": 51.4804833,
+      "lon": -0.2904095,
+      "tags": {
+        "leisure": "garden",
+        "name": "Woodland Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207139285,
+      "lat": 51.4790025,
+      "lon": -0.2975504,
+      "tags": {
+        "leisure": "garden",
+        "name": "Azalea Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207141757,
+      "lat": 51.4768294,
+      "lon": -0.2952823,
+      "tags": {
+        "leisure": "garden",
+        "name": "Mediterranean Garden",
+        "name:fr": "Jardin méditerranéen",
+        "name:ru": "Средиземноморский сад"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207141983,
+      "lat": 51.4788768,
+      "lon": -0.2935425,
+      "tags": {
+        "leisure": "garden",
+        "name": "Rose Garden",
+        "name:fr": "Roseraie",
+        "name:ru": "Розарий"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207272295,
+      "lat": 51.4732329,
+      "lon": -0.3046692,
+      "tags": {
+        "leisure": "garden",
+        "loc_name": "Conservation Area",
+        "name": "Queen's Cottage Grounds"
+      }
+    },
+    {
+      "type": "node",
+      "id": 207513563,
+      "lat": 51.5066413,
+      "lon": -0.1688741,
+      "tags": {
+        "leisure": "garden",
+        "name": "The Cockpit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370195256,
+      "lat": 51.585262,
+      "lon": -0.123707,
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "leisure": "garden",
+        "name": "Ornamental Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 420783220,
+      "lat": 51.4051677,
+      "lon": 0.0109053,
+      "tags": {
+        "leisure": "garden",
+        "name": "Field of Hope"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448037429,
+      "lat": 51.4436723,
+      "lon": 0.2214463,
+      "tags": {
+        "leisure": "garden",
+        "name": "Bridge House Gardens"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702318525,
+      "lat": 51.482217,
+      "lon": -0.2886585,
+      "tags": {
+        "leisure": "garden",
+        "name": "Aquatic Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978158,
+      "lat": 51.4815315,
+      "lon": -0.2917295,
+      "tags": {
+        "leisure": "garden",
+        "name": "Winter Garden",
+        "name:fr": "Jardin d'hiver",
+        "name:ru": "Зимний сад"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978159,
+      "lat": 51.4735563,
+      "lon": -0.3070311,
+      "tags": {
+        "leisure": "garden",
+        "name": "Conservation Area"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978160,
+      "lat": 51.4763693,
+      "lon": -0.2926569,
+      "tags": {
+        "leisure": "garden",
+        "name": "Berberis Dell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978161,
+      "lat": 51.4742169,
+      "lon": -0.2990379,
+      "tags": {
+        "leisure": "garden",
+        "name": "Woodland Glade"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978162,
+      "lat": 51.4734762,
+      "lon": -0.3006819,
+      "tags": {
+        "leisure": "garden",
+        "name": "Redwood Grove"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978163,
+      "lat": 51.4795538,
+      "lon": -0.3003275,
+      "tags": {
+        "leisure": "garden",
+        "name": "Rhododendron Dell",
+        "name:ru": "Участок рододендронов"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348978164,
+      "lat": 51.4816843,
+      "lon": -0.2882834,
+      "tags": {
+        "leisure": "garden",
+        "name": "Student Vegetable Plots"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982055860,
+      "lat": 51.5045297,
+      "lon": -0.1580207,
+      "tags": {
+        "leisure": "garden",
+        "name": "Nannies' Lawn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982085230,
+      "lat": 51.5107745,
+      "lon": -0.1662814,
+      "tags": {
+        "leisure": "garden",
+        "name": "The Meadow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982085234,
+      "lat": 51.5082101,
+      "lon": -0.1589965,
+      "tags": {
+        "leisure": "garden",
+        "name": "The Parade Ground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578705282,
+      "lat": 51.2830457,
+      "lon": 0.1802854,
+      "tags": {
+        "addr:city": "Sevenoaks",
+        "addr:street": "Lakeview Road",
+        "email": "valektamas73@yahoo.co.uk",
+        "leisure": "garden",
+        "name": "MR Valek Garden Landscapist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3725978141,
+      "lat": 51.4408751,
+      "lon": -0.0629265,
+      "tags": {
+        "fixme": "wildlife garden? Note 20836",
+        "leisure": "garden",
+        "name": "Horniman's Wildlife Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4567226374,
+      "lat": 51.6036167,
+      "lon": -0.0127881,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "E4 8BJ",
+        "addr:street": "Parade Gardens",
+        "leisure": "garden",
+        "name": "Allotment Gardens"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4678882807,
+      "lat": 51.5893849,
+      "lon": -0.1108516,
+      "tags": {
+        "leisure": "garden",
+        "name": "Hornsey Park Community Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6582725771,
+      "lat": 51.5292528,
+      "lon": -0.1288306,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Levita House",
+        "addr:postcode": "NW1 1JJ",
+        "addr:street": "Chalton Street",
+        "description": "This area has newly been upgraded for the residents of Levita house to start gardening and growing small vegetables and fruits where possible",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Levita House Plantation",
+        "opening_hours": "24/7",
+        "operator": "Camden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7133584273,
+      "lat": 51.4043483,
+      "lon": 0.1833253,
+      "tags": {
+        "addr:street": "New Barn Road",
+        "leisure": "garden",
+        "name": "Footpath Nursery",
+        "survey:date": "2020-01-15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7552636680,
+      "lat": 51.5498054,
+      "lon": -0.0322818,
+      "tags": {
+        "description": "Mabley Edible Garden planted 2016 maintained by volunteers. For contact details visit the Facebook page.\n",
+        "leisure": "garden",
+        "name": "Mabley Edible Garden",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7644040345,
+      "lat": 51.3560432,
+      "lon": -0.0560355,
+      "tags": {
+        "leisure": "garden",
+        "name": "Walled Formal Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8080669417,
+      "lat": 51.5488085,
+      "lon": -0.043493,
+      "tags": {
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Core Landscapes",
+        "survey:date": "2020-11-04",
+        "website": "https://www.corearts.co.uk/core-landscapes/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8869785683,
+      "lat": 51.4299614,
+      "lon": -0.1418361,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/tootingcommunitygarden/",
+        "leisure": "garden",
+        "name": "Tooting Community Garden",
+        "operator": "Transition Town Tooting"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9687834484,
+      "lat": 51.5717699,
+      "lon": -0.1465887,
+      "tags": {
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "OmVed Gardens",
+        "website": "https://omvedgardens.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10264287285,
+      "lat": 51.5463476,
+      "lon": 0.126934,
+      "tags": {
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Forest of Thanks",
+        "operator": "Borough of Barking and Dagenham",
+        "operator:type": "community"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11382861063,
+      "lat": 51.3569093,
+      "lon": -0.0551567,
+      "tags": {
+        "leisure": "garden",
+        "name": "Rose Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11544241894,
+      "lat": 51.3752941,
+      "lon": -0.0056615,
+      "tags": {
+        "access": "permit",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "West Wickham Allotments"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12156767568,
+      "lat": 51.4979232,
+      "lon": -0.1370762,
+      "tags": {
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Onion Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12686983560,
+      "lat": 51.5023428,
+      "lon": -0.2740903,
+      "tags": {
+        "access": "permissive",
+        "addr:city": "London",
+        "addr:housename": "Cultivate London @Berrymede Community Gardens",
+        "addr:housenumber": "232",
+        "addr:postcode": "W3 8SN",
+        "addr:street": "Osborne Road",
+        "description": "The beds are located in the playgrounds of the 3 buildings of the Acton Gardens Primary school (formerly Berrymede), the drop-in sessions are outside lessons times: Saturdays 11:30 – 14:30 and Tuesdays 4-6pm (only from April until October).",
+        "door": "gate",
+        "entrance": "community_garden_entrance",
+        "fee": "no",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Cultivate London @Berrymede Community Gardens",
+        "operator": "Cultivate London",
+        "operator:type": "charitable",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12687082730,
+      "lat": 51.4721294,
+      "lon": -0.348242,
+      "tags": {
+        "access": "permissive",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "689a",
+        "addr:postcode": "TW7 4ES",
+        "addr:street": "London Road",
+        "check_date": "2025-03-21",
+        "description": "Every Wednesday 10 – 4 pm. Drop in, meet some new people. We have strong cohort of regulars and new people joining all the time – no experience necessary, just a can-do attitude!",
+        "fee": "no",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Cultivate London @The Salopian Garden",
+        "operator": "Cultivate London",
+        "operator:type": "charitable",
+        "phone": "+44 208 992 4941"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12687089050,
+      "lat": 51.5056246,
+      "lon": -0.3427219,
+      "tags": {
+        "access": "permissive",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housename": "Cultivate London @DIG Hanwell",
+        "addr:housenumber": "62",
+        "addr:postcode": "W7 2PB",
+        "addr:street": "Green Ln",
+        "check_date": "2025-03-21",
+        "description": "(Every Monday 10 – 3 pm) Visit us and help Cultivate London build this beautiful green space into a thriving community resource. No experience is necessary, just a willingness to help and you might learn something along the way.",
+        "fee": "no",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Cultivate London @DIG Hanwell",
+        "operator": "Cultivate London",
+        "operator:type": "charitable",
+        "phone": "+44 208 992 4941"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13275558232,
+      "lat": 51.5350159,
+      "lon": -0.0481412,
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "leisure": "garden",
+        "name": "Rose Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3178749,
+      "center": {
+        "lat": 51.5158883,
+        "lon": -0.1734256
+      },
+      "tags": {
+        "alt_name": "Norfolk Square Gardens",
+        "barrier": "fence",
+        "leisure": "garden",
+        "name": "Norfolk Square Garden",
+        "operator": "City of Westminster",
+        "operator:type": "government",
+        "operator:wikidata": "Q179351",
+        "source:name": "survey",
+        "wikidata": "Q117841866",
+        "wikipedia": "en:Norfolk Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3991492,
+      "center": {
+        "lat": 51.4018765,
+        "lon": -0.3373384
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "Privy Garden",
+        "note": "formal garden - geometrical patterns of small box hedge used as borders for each plot",
+        "wikidata": "Q27084973"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4005250,
+      "center": {
+        "lat": 51.4333899,
+        "lon": -0.2773623
+      },
+      "tags": {
+        "access": "yes",
+        "barrier": "fence",
+        "leisure": "garden",
+        "name": "Isabella Plantation",
+        "operator": "The Royal Parks",
+        "website": "https://www.royalparks.org.uk/visit/parks/richmond-park/isabella-plantation",
+        "wikidata": "Q6077825",
+        "wikimedia_commons": "Category:Isabella_Plantation",
+        "wikipedia": "en:Isabella Plantation"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4081035,
+      "center": {
+        "lat": 51.523381,
+        "lon": -0.1464773
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Park Crescent Gardens",
+        "source": "OS",
+        "website": "https://cepc.org.uk/gardens/park-square-and-park-crescent-gardens/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4081036,
+      "center": {
+        "lat": 51.5244103,
+        "lon": -0.1468696
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Park Square Gardens",
+        "website": "https://cepc.org.uk/gardens/park-square-and-park-crescent-gardens/",
+        "wikidata": "Q7138034",
+        "wikipedia": "en:Park Square, London"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253431,
+      "center": {
+        "lat": 51.518967,
+        "lon": -0.130029
+      },
+      "tags": {
+        "GBV": "InActive",
+        "access": "private",
+        "barrier": "fence",
+        "leisure": "garden",
+        "name": "Bedford Square",
+        "wikidata": "Q2893581",
+        "wikipedia": "en:Bedford Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4253511,
+      "center": {
+        "lat": 51.5265907,
+        "lon": -0.1318344
+      },
+      "tags": {
+        "access": "permissive",
+        "fee": "no",
+        "fixme": "Friends House shuts and locks this garden at times, I think overnight. It would be good to identify the hours the garden is open.",
+        "leisure": "garden",
+        "name": "Friends House Garden",
+        "operator": "Friends House",
+        "operator:type": "religious"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256650,
+      "center": {
+        "lat": 51.4883193,
+        "lon": -0.1195878
+      },
+      "tags": {
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Vauxhall Gardens Allotments"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4256999,
+      "center": {
+        "lat": 51.497709,
+        "lon": -0.144933
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "private",
+        "leisure": "garden",
+        "name": "Victoria Square",
+        "wikidata": "Q7927047"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4260010,
+      "center": {
+        "lat": 51.4969254,
+        "lon": -0.1187813
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "Lambeth Palace Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4270739,
+      "center": {
+        "lat": 51.5194756,
+        "lon": -0.0955947
+      },
+      "tags": {
+        "access": "private",
+        "alt_name": "Thomas More Gardens",
+        "leisure": "garden",
+        "name": "Thomas More Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4270744,
+      "center": {
+        "lat": 51.5213402,
+        "lon": -0.0962944
+      },
+      "tags": {
+        "access": "private",
+        "addr:city": "London",
+        "addr:postcode": "EC2Y 8AF",
+        "addr:street": "Fann Street",
+        "leisure": "garden",
+        "name": "Barbican Wildlife Garden",
+        "old_name": "Fann Street Wildlife Garden",
+        "website": "http://www.barbicanwildlifegarden.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4315778,
+      "center": {
+        "lat": 51.5202491,
+        "lon": -0.1141872
+      },
+      "tags": {
+        "access": "permissive",
+        "access:conditional": "permissive@(12:00-14:30)",
+        "fee": "no",
+        "leisure": "garden",
+        "name": "The Walks",
+        "website": "https://www.graysinn.org.uk/the-inn/the-estate/the-walks/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4363425,
+      "center": {
+        "lat": 51.4978242,
+        "lon": -0.1584653
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Cadogan Place North Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4363426,
+      "center": {
+        "lat": 51.4959587,
+        "lon": -0.1579902
+      },
+      "tags": {
+        "access": "private",
+        "bicycle": "no",
+        "dog": "no",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Cadogan Place South Garden",
+        "note": "Private garden for Cadogan Place residents",
+        "operator": "Cadogan Estates Ltd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4363427,
+      "center": {
+        "lat": 51.495134,
+        "lon": -0.1605778
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Cadogan Square Garden",
+        "wikidata": "Q3649486",
+        "wikipedia": "en:Cadogan Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4363428,
+      "center": {
+        "lat": 51.4955563,
+        "lon": -0.1631709
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Lennox Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4384305,
+      "center": {
+        "lat": 51.4411104,
+        "lon": -0.183262
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "Swaby Gardens",
+        "source:name": "local knowledge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4780410,
+      "center": {
+        "lat": 51.5146618,
+        "lon": -0.1823516
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Cleveland Square",
+        "website": "https://www.clevelandsquare.co.uk/",
+        "wikidata": "Q56275847",
+        "wikipedia": "en:Cleveland Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4959893,
+      "center": {
+        "lat": 51.4993207,
+        "lon": -0.1730294
+      },
+      "tags": {
+        "access": "permissive",
+        "dog": "no",
+        "leisure": "garden",
+        "name": "Prince's Gardens",
+        "operator": "Imperial College London",
+        "operator:type": "university",
+        "wikidata": "Q73019724",
+        "wikimedia_commons": "Category:Princes Gardens, London"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4964138,
+      "center": {
+        "lat": 51.4416327,
+        "lon": -0.0624789
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "Sunken Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4969746,
+      "center": {
+        "lat": 51.5118836,
+        "lon": -0.1095735
+      },
+      "tags": {
+        "access": "private",
+        "leisure": "garden",
+        "name": "Inner Temple Garden",
+        "wikidata": "Q127869154",
+        "wikipedia": "en:Inner Temple"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4981842,
+      "center": {
+        "lat": 51.5106365,
+        "lon": -0.2024396
+      },
+      "tags": {
+        "access": "private",
+        "alt_name": "Ladbroke Square Gardens",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Ladbroke Square Garden",
+        "wikidata": "Q6469277",
+        "wikipedia": "en:Ladbroke Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4996129,
+      "center": {
+        "lat": 51.4912359,
+        "lon": -0.1985816
+      },
+      "tags": {
+        "access": "private",
+        "designation": "Philbeach Gardens",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Philbeach Gardens",
+        "website": "https://philbeach.co.uk/",
+        "wikidata": "Q95985260",
+        "wikipedia": "en:Philbeach Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4996140,
+      "center": {
+        "lat": 51.4920427,
+        "lon": -0.196975
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Nevern Square Garden",
+        "website": "https://www.nevernsquaregarden.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5038724,
+      "center": {
+        "lat": 51.5003981,
+        "lon": -0.1585234
+      },
+      "tags": {
+        "access": "private",
+        "barrier": "fence",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Lowndes Square Gardens",
+        "wikidata": "Q6694125",
+        "wikipedia": "en:Lowndes Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5038725,
+      "center": {
+        "lat": 51.4978384,
+        "lon": -0.1609936
+      },
+      "tags": {
+        "access": "private",
+        "barrier": "fence",
+        "fence_type": "metal",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Hans Place Garden",
+        "ref:GB:uprn": "217107356",
+        "wikidata": "Q5650631",
+        "wikipedia": "en:Hans Place"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5112993,
+      "center": {
+        "lat": 51.4710129,
+        "lon": -0.0727479
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "William Grigg's Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5319726,
+      "center": {
+        "lat": 51.4872761,
+        "lon": -0.162949
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Tedworth Square",
+        "wikidata": "Q66370744",
+        "wikipedia": "en:Tedworth Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5464883,
+      "center": {
+        "lat": 51.4580854,
+        "lon": -0.0637322
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "The Oval"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5464884,
+      "center": {
+        "lat": 51.45761,
+        "lon": -0.0617317
+      },
+      "tags": {
+        "leisure": "garden",
+        "name": "Japanese Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5464885,
+      "center": {
+        "lat": 51.4570652,
+        "lon": -0.0604163
+      },
+      "tags": {
+        "created_by": "JOSM",
+        "leisure": "garden",
+        "name": "Sexby Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5464886,
+      "center": {
+        "lat": 51.457203,
+        "lon": -0.0596687
+      },
+      "tags": {
+        "created_by": "JOSM",
+        "leisure": "garden",
+        "name": "American Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7944907,
+      "center": {
+        "lat": 51.4919605,
+        "lon": -0.1910229
+      },
+      "tags": {
+        "access": "private",
+        "description": "Barkston Gardens is a private communal garden provided for residents of the houses that surround it.",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Barkston Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7944966,
+      "center": {
+        "lat": 51.4930041,
+        "lon": -0.1889774
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Courtfield Gardens (West)",
+        "website": "https://www.courtfieldgardens.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7945054,
+      "center": {
+        "lat": 51.4910794,
+        "lon": -0.189222
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Bramham Gardens",
+        "website": "https://www.bramhamgardens.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7945412,
+      "center": {
+        "lat": 51.4915825,
+        "lon": -0.1876579
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Collingham Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10782218,
+      "center": {
+        "lat": 51.4888185,
+        "lon": -0.1786952
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Evelyn Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10782605,
+      "center": {
+        "lat": 51.490832,
+        "lon": -0.1794033
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Cranley Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10782657,
+      "center": {
+        "lat": 51.4913868,
+        "lon": -0.1782564
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Onslow Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10782688,
+      "center": {
+        "lat": 51.4906017,
+        "lon": -0.1775414
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Onslow Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10782741,
+      "center": {
+        "lat": 51.4909991,
+        "lon": -0.1766015
+      },
+      "tags": {
+        "access": "private",
+        "garden:type": "residential",
+        "leisure": "garden",
+        "name": "Onslow Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 10806964,
+      "center": {
+        "lat": 51.4846484,
+        "lon": -0.1621613
+      },
+      "tags": {
+        "access": "private",
+        "addr:city": "London",
+        "addr:housenumber": "66",
+        "addr:street": "Royal Hospital Road",
+        "leisure": "garden",
+        "name": "Chelsea Physic Garden",
+        "name:en": "Chelsea Physic Garden",
+        "name:ru": "Аптекарский сад Челси",
+        "name:zh": "1",
+        "opening_hours": "Mo-Su 09:30-16:00",
+        "tourism": "attraction",
+        "website": "https://www.chelseaphysicgarden.co.uk/",
+        "wikidata": "Q1069148",
+        "wikipedia": "en:Chelsea Physic Garden"
+      }
+    }
+  ]
+}

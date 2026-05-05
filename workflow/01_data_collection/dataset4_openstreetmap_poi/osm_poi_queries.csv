@@ -1,0 +1,12 @@
+label,osm_key,osm_value,category,emotion1,emotion2,value1,value2,max_items
+parks,leisure,park,park relaxed,calm,open,0.20,0.10,120
+gardens,leisure,garden,park relaxed,calm,open,0.20,0.15,90
+green_spaces,landuse,grass,park relaxed,calm,open,0.25,0.20,70
+recreation_grounds,leisure,recreation_ground,park relaxed,calm,open,0.25,0.20,60
+shops,shop,*,commercial stressful,stress,dense,0.85,0.75,150
+offices,office,*,commercial stressful,stress,dense,0.90,0.85,90
+markets,amenity,marketplace,commercial stressful,stress,dense,0.80,0.75,60
+restaurants,amenity,restaurant,commercial stressful,stress,dense,0.75,0.70,70
+stations,railway,station,transport tense,tense,fast,0.75,0.65,70
+bus_stations,amenity,bus_station,transport tense,tense,fast,0.70,0.60,50
+subway_entrances,railway,subway_entrance,transport tense,tense,fast,0.70,0.60,60

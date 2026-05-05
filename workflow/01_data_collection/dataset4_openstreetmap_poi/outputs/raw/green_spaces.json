@@ -1,0 +1,950 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-03T14:23:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 4074720,
+      "center": {
+        "lat": 51.4235286,
+        "lon": 0.0162773
+      },
+      "tags": {
+        "barrier": "fence",
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Bromley Reservoir"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4234156,
+      "center": {
+        "lat": 51.5567538,
+        "lon": -0.3441865
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Ealing Northern (Open Land)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4234159,
+      "center": {
+        "lat": 51.5680069,
+        "lon": -0.3371901
+      },
+      "tags": {
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Harrow Reservoir",
+        "operator": "Affinity Water",
+        "operator:wikidata": "Q4688977"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4251094,
+      "center": {
+        "lat": 51.5231932,
+        "lon": -0.2978754
+      },
+      "tags": {
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Ealing Reservoir",
+        "operator": "Thames Water",
+        "operator:wikidata": "Q2408951"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4281065,
+      "center": {
+        "lat": 51.5621913,
+        "lon": -0.2360869
+      },
+      "tags": {
+        "access": "private",
+        "industrial": "water",
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Dollis Hill Reservoir",
+        "operator": "Thames Water",
+        "operator:wikidata": "Q2408951"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4927733,
+      "center": {
+        "lat": 51.5413556,
+        "lon": -0.3662296
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Ealing Golf Driving Range",
+        "old_name": "Ealing Golf Range"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5068514,
+      "center": {
+        "lat": 51.4693132,
+        "lon": -0.3238622
+      },
+      "tags": {
+        "designation": "common",
+        "landuse": "grass",
+        "name": "Isleworth Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22377068,
+      "center": {
+        "lat": 51.5931574,
+        "lon": -0.3748984
+      },
+      "tags": {
+        "designation": "village_green",
+        "landuse": "grass",
+        "name": "Tookes Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23140345,
+      "center": {
+        "lat": 51.4896623,
+        "lon": -0.4324537
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Brickfield Lane  Playground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23458117,
+      "center": {
+        "lat": 51.4961942,
+        "lon": -0.3293136
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Well Meadow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23501395,
+      "center": {
+        "lat": 51.450527,
+        "lon": -0.3500049
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Chase Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23660189,
+      "center": {
+        "lat": 51.5631748,
+        "lon": -0.3878562
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Brackenbridge Field"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24436451,
+      "center": {
+        "lat": 51.4971007,
+        "lon": -0.1787375
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Dana Centre Lawn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25461953,
+      "center": {
+        "lat": 51.4144911,
+        "lon": -0.0760731
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Fox Hill Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25590055,
+      "center": {
+        "lat": 51.4031537,
+        "lon": -0.3369452
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Fountain Court"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25625883,
+      "center": {
+        "lat": 51.4253247,
+        "lon": -0.382574
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Maple Close Open Space"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27153151,
+      "center": {
+        "lat": 51.4264161,
+        "lon": -0.3741356
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Partridge Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28894489,
+      "center": {
+        "lat": 51.3527797,
+        "lon": -0.2706034
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Hook Road Arena",
+        "ref:GB:uprn": "200004007311"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29128017,
+      "center": {
+        "lat": 51.566349,
+        "lon": -0.1879583
+      },
+      "tags": {
+        "attraction": "animal",
+        "barrier": "fence",
+        "description": "Fallow Deer, Red Deer",
+        "landuse": "grass",
+        "name": "Deer Enclosure"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29212163,
+      "center": {
+        "lat": 51.4861426,
+        "lon": -0.2593681
+      },
+      "tags": {
+        "barrier": "wall",
+        "landuse": "grass",
+        "name": "Hockey field",
+        "name:ru": "Хоккейное поле"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29242411,
+      "center": {
+        "lat": 51.565634,
+        "lon": -0.1836458
+      },
+      "tags": {
+        "description": "Public Gardens",
+        "landuse": "grass",
+        "name": "The Hill Garden and Pergola"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29624267,
+      "center": {
+        "lat": 51.5605082,
+        "lon": -0.1800112
+      },
+      "tags": {
+        "barrier": "fence",
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Hampstead Reservoir",
+        "operator": "Thames Water",
+        "operator:wikidata": "Q2408951",
+        "wikidata": "Q27086136"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30411858,
+      "center": {
+        "lat": 51.5702014,
+        "lon": -0.1672221
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Pasture Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30433385,
+      "center": {
+        "lat": 51.5628104,
+        "lon": -0.1671135
+      },
+      "tags": {
+        "access": "yes",
+        "landuse": "grass",
+        "name": "Sports Ground"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30694329,
+      "center": {
+        "lat": 51.5378594,
+        "lon": 0.0659035
+      },
+      "tags": {
+        "access": "no",
+        "disused:landuse": "recreation_ground",
+        "landuse": "grass",
+        "name": "Lady Trower Trust",
+        "note": "Disused Metropolitan Open Land",
+        "old_name": "Lady Trower Trust Playing Fields",
+        "owner": "Aston Mansfield Trust",
+        "start_date": "1926"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31008050,
+      "center": {
+        "lat": 51.5631597,
+        "lon": -0.113589
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Central Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32741362,
+      "center": {
+        "lat": 51.3883484,
+        "lon": 0.1003592
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Robin Hood Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32744367,
+      "center": {
+        "lat": 51.3925139,
+        "lon": 0.099899
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Tillingbourne Green Open Space"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35323257,
+      "center": {
+        "lat": 51.4532019,
+        "lon": 0.0384457
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Eltham Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35428112,
+      "center": {
+        "lat": 51.4730542,
+        "lon": -0.0649271
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Yarnfield Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37248717,
+      "center": {
+        "lat": 51.4150697,
+        "lon": 0.1266611
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Ruxley Corner"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39195092,
+      "center": {
+        "lat": 51.5751576,
+        "lon": -0.1154983
+      },
+      "tags": {
+        "access": "no",
+        "barrier": "wall",
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Crouch Hill Reservoir",
+        "operator": "Thames Water",
+        "operator:wikidata": "Q2408951",
+        "surface": "grass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40312513,
+      "center": {
+        "lat": 51.5285831,
+        "lon": -0.0303858
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Guerin Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40312528,
+      "center": {
+        "lat": 51.5288164,
+        "lon": -0.0290764
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Heylyn Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40312649,
+      "center": {
+        "lat": 51.5290332,
+        "lon": -0.028423
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Trellis Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40312654,
+      "center": {
+        "lat": 51.529104,
+        "lon": -0.027473
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Sheffield Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41832294,
+      "center": {
+        "lat": 51.5523529,
+        "lon": -0.279876
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Tudor Court West",
+        "source": "yahoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41832295,
+      "center": {
+        "lat": 51.5515219,
+        "lon": -0.2762674
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Tudor Court East",
+        "source": "yahoo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44047853,
+      "center": {
+        "lat": 51.4940778,
+        "lon": -0.3301508
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Lower Well Meadow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 46184354,
+      "center": {
+        "lat": 51.5874152,
+        "lon": 0.0212065
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "The Drive Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 47032484,
+      "center": {
+        "lat": 51.6594829,
+        "lon": -0.3771773
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Former Bushey Hall Golf Course"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48915780,
+      "center": {
+        "lat": 51.570423,
+        "lon": -0.1398998
+      },
+      "tags": {
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Hornsey Lane Reservoir",
+        "operator": "Thames Water",
+        "operator:wikidata": "Q2408951"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49901775,
+      "center": {
+        "lat": 51.4072917,
+        "lon": -0.4006291
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Rivermead Island",
+        "note": "River Thames multipolygon relation inner",
+        "place": "islet",
+        "wikidata": "Q7338265",
+        "wikipedia": "en:Rivermead Island"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61278333,
+      "center": {
+        "lat": 51.590233,
+        "lon": -0.2273141
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "The Paddock"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79263214,
+      "center": {
+        "lat": 51.6583033,
+        "lon": -0.2771063
+      },
+      "tags": {
+        "fictional:leisure": "park",
+        "landuse": "grass",
+        "name": "Walford Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 98631142,
+      "center": {
+        "lat": 51.4982518,
+        "lon": -0.1772129
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Queen's Lawn",
+        "source": "Bing; Local Knowledge",
+        "wikidata": "Q7270023",
+        "wikipedia": "en:Queen's Lawn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 99337488,
+      "center": {
+        "lat": 51.5479848,
+        "lon": -0.1628678
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Antrim Gardens",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 103871016,
+      "center": {
+        "lat": 51.5421322,
+        "lon": -0.168535
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Hawtrey Gardens",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104427632,
+      "center": {
+        "lat": 51.5300687,
+        "lon": 0.0083691
+      },
+      "tags": {
+        "access": "permissive",
+        "embankment": "yes",
+        "landuse": "grass",
+        "name": "Greenway",
+        "note": "Hides the Northern Outfall Sewer below",
+        "operator": "Thames Water"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104427633,
+      "center": {
+        "lat": 51.5263791,
+        "lon": 0.0208457
+      },
+      "tags": {
+        "access": "permissive",
+        "description": "Hides the Northern Outfall Sewer below",
+        "embankment": "yes",
+        "landuse": "grass",
+        "name": "Greenway",
+        "operator": "Thames Water"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104427634,
+      "center": {
+        "lat": 51.5250501,
+        "lon": 0.0257293
+      },
+      "tags": {
+        "access": "permissive",
+        "description": "Hides the Northern Outfall Sewer below",
+        "embankment": "yes",
+        "landuse": "grass",
+        "name": "Greenway",
+        "operator": "Thames Water"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104427635,
+      "center": {
+        "lat": 51.5246393,
+        "lon": 0.0287558
+      },
+      "tags": {
+        "access": "permissive",
+        "description": "Hides the Northern Outfall Sewer below",
+        "embankment": "yes",
+        "landuse": "grass",
+        "name": "Greenway",
+        "operator": "Thames Water"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104427637,
+      "center": {
+        "lat": 51.5312204,
+        "lon": -0.0004252
+      },
+      "tags": {
+        "access": "permissive",
+        "description": "Hides the Northern Outfall Sewer below",
+        "embankment": "yes",
+        "landuse": "grass",
+        "name": "Greenway",
+        "operator": "Thames Water"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105879353,
+      "center": {
+        "lat": 51.343266,
+        "lon": -0.2558683
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Quad"
+      }
+    },
+    {
+      "type": "way",
+      "id": 107287748,
+      "center": {
+        "lat": 51.3810096,
+        "lon": -0.2627858
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Six Acre Meadow",
+        "ref:GB:uprn": "128004316"
+      }
+    },
+    {
+      "type": "way",
+      "id": 132654468,
+      "center": {
+        "lat": 51.4227677,
+        "lon": -0.3547173
+      },
+      "tags": {
+        "access": "yes",
+        "garden:type": "public",
+        "landuse": "grass",
+        "name": "The Water Gardens"
+      }
+    },
+    {
+      "type": "way",
+      "id": 139726524,
+      "center": {
+        "lat": 51.503452,
+        "lon": -0.1269787
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Treasury Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142762359,
+      "center": {
+        "lat": 51.3678552,
+        "lon": 0.3095921
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "The Meadow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146284065,
+      "center": {
+        "lat": 51.5489339,
+        "lon": -0.0196708
+      },
+      "tags": {
+        "landcover": "grass",
+        "landuse": "grass",
+        "name": "Hopkins' Field",
+        "natural": "grassland",
+        "source": "http://www.tfl.gov.uk/assets/downloads/24847-queen-elizabeth-olympic-park-events-leaflet-june-2013.pdf",
+        "source:alt": "Legible London sign on Eastway."
+      }
+    },
+    {
+      "type": "way",
+      "id": 147193751,
+      "center": {
+        "lat": 51.6539862,
+        "lon": 0.2589465
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Navestock Cricket Ground",
+        "surface": "grass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 151622204,
+      "center": {
+        "lat": 51.4998279,
+        "lon": -0.039816
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "The Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156515559,
+      "center": {
+        "lat": 51.5287494,
+        "lon": -0.0057427
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Three Mills Green",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160628294,
+      "center": {
+        "lat": 51.5078613,
+        "lon": -0.0761506
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Inmost Ward",
+        "name:ar": "الجناح الداخلي"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160628311,
+      "center": {
+        "lat": 51.5080408,
+        "lon": -0.077037
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Tower Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160775924,
+      "center": {
+        "lat": 51.3226973,
+        "lon": -0.4762433
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "The Square"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160775926,
+      "center": {
+        "lat": 51.321936,
+        "lon": -0.4729937
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "parking",
+        "landuse": "grass",
+        "name": "Car Park 4",
+        "note": "Used only when other car parks are full by RHS Wisley",
+        "operator": "RHS Wisley",
+        "operator:type": "business",
+        "parking": "surface",
+        "source": "bing",
+        "surface": "grass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 163507897,
+      "center": {
+        "lat": 51.3728965,
+        "lon": -0.0952821
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "College Green"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168562297,
+      "center": {
+        "lat": 51.6814468,
+        "lon": -0.3930055
+      },
+      "tags": {
+        "area:highway": "traffic_island",
+        "barrier": "kerb",
+        "landuse": "grass",
+        "name": "The Dome Roundabout",
+        "surface": "grass"
+      }
+    },
+    {
+      "type": "way",
+      "id": 170028609,
+      "center": {
+        "lat": 51.360699,
+        "lon": -0.0614384
+      },
+      "tags": {
+        "landuse": "grass",
+        "man_made": "reservoir_covered",
+        "name": "Addington Reservoir",
+        "operator": "Thames Water",
+        "ref": "ADDIC1ZZ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173297501,
+      "center": {
+        "lat": 51.6341366,
+        "lon": 0.0615522
+      },
+      "tags": {
+        "landuse": "grass",
+        "name": "Loughton Football Club"
+      }
+    }
+  ]
+}

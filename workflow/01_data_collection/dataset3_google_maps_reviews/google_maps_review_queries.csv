@@ -1,0 +1,41 @@
+query,category,emotion1,emotion2,value1,value2
+parks near Westminster London,park relaxed,calm,open,0.20,0.10
+parks near Camden London,park relaxed,calm,open,0.20,0.10
+parks near Hackney London,park relaxed,calm,open,0.20,0.10
+parks near Islington London,park relaxed,calm,open,0.20,0.10
+parks near Southwark London,park relaxed,calm,open,0.20,0.10
+parks near Greenwich London,park relaxed,calm,open,0.20,0.10
+parks near Lambeth London,park relaxed,calm,open,0.20,0.10
+parks near Kensington London,park relaxed,calm,open,0.20,0.10
+public gardens near Westminster London,park relaxed,calm,open,0.20,0.15
+public gardens near Camden London,park relaxed,calm,open,0.20,0.15
+public gardens near Hackney London,park relaxed,calm,open,0.20,0.15
+public gardens near Islington London,park relaxed,calm,open,0.20,0.15
+public gardens near Southwark London,park relaxed,calm,open,0.20,0.15
+public gardens near Greenwich London,park relaxed,calm,open,0.20,0.15
+urban green spaces near London Bridge,park relaxed,calm,open,0.25,0.20
+urban green spaces near Canary Wharf,park relaxed,calm,open,0.25,0.20
+urban green spaces near King's Cross London,park relaxed,calm,open,0.25,0.20
+urban green spaces near Shoreditch London,park relaxed,calm,open,0.25,0.20
+river walks near Thames London,park relaxed,calm,open,0.25,0.15
+canal walks near London,park relaxed,calm,open,0.25,0.15
+shopping streets near Oxford Street London,commercial stressful,stress,dense,0.85,0.75
+shopping streets near Regent Street London,commercial stressful,stress,dense,0.85,0.75
+shopping streets near Camden London,commercial stressful,stress,dense,0.85,0.75
+shopping streets near Shoreditch London,commercial stressful,stress,dense,0.85,0.75
+shopping streets near Soho London,commercial stressful,stress,dense,0.85,0.75
+shopping centres near Stratford London,commercial stressful,stress,dense,0.90,0.80
+shopping centres near White City London,commercial stressful,stress,dense,0.90,0.80
+shopping centres near Canary Wharf London,commercial stressful,stress,dense,0.90,0.80
+shopping malls near London,commercial stressful,stress,dense,0.90,0.80
+business districts near City of London,commercial stressful,stress,dense,0.90,0.85
+business districts near Canary Wharf,commercial stressful,stress,dense,0.90,0.85
+business districts near Liverpool Street London,commercial stressful,stress,dense,0.90,0.85
+office areas near London Bridge,commercial stressful,stress,dense,0.90,0.85
+busy markets near Camden London,commercial stressful,stress,dense,0.80,0.75
+busy markets near Borough London,commercial stressful,stress,dense,0.80,0.75
+busy markets near Brick Lane London,commercial stressful,stress,dense,0.80,0.75
+busy markets near Spitalfields London,commercial stressful,stress,dense,0.80,0.75
+busy stations near King's Cross London,transport tense,tense,fast,0.75,0.65
+busy stations near Victoria London,transport tense,tense,fast,0.75,0.65
+busy stations near Waterloo London,transport tense,tense,fast,0.75,0.65
